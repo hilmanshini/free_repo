@@ -1,0 +1,147 @@
+[
+  {
+    "id": 37,
+    "accessible": true,
+    "reacted": true,
+    "reacted_type": "like",
+    "study_group_id": 21,
+    "title": "Health Prayer",
+    "content": "I would appreciate prayers for my friend, Sue, who is experiencing several health issues. ",
+    "created_at": "2022-03-20T16:37:08.000Z",
+    "updated_at": "2022-04-08T06:31:37.000Z",
+    "author": {
+      "id": 21,
+      "firstname": "Kathy",
+      "lastname": "Jones",
+      "photo_url": "","is_leader": true
+    },
+    "reactions": [
+      {
+        "id": 100,
+        "type": "pray",
+        "created_at": "2022-03-28T22:16:10.000Z",
+        "updated_at": null,
+        "user": {
+          "id": 23,
+          "firstname": "Choi",
+          "lastname": "Kang Lim",
+          "photo_url": null
+        }
+      },
+      {
+        "id": 101,
+        "type": "pray",
+        "created_at": "2022-04-08T06:31:07.000Z",
+        "updated_at": null,
+        "user": {
+          "id": 21,
+          "firstname": "Ta",
+          "lastname": "Si Leader",
+          "photo_url": "" }
+      },
+      {
+        "id": 102,
+        "type": "like",
+        "created_at": "2022-03-28T22:16:10.000Z",
+        "updated_at": null,
+        "user": {
+          "id": 23,
+          "firstname": "Choi",
+          "lastname": "Kang Lim",
+          "photo_url": null
+        }
+      },
+      {
+        "id": 103,
+        "type": "pray",
+        "created_at": "2022-03-28T22:16:10.000Z",
+        "updated_at": null,
+        "user": {
+          "id": 23,
+          "firstname": "Choi",
+          "lastname": "Kang Lim",
+          "photo_url": null
+        }
+      },
+      {
+        "id": 104,
+        "type": "pray",
+        "created_at": "2022-03-28T22:16:10.000Z",
+        "updated_at": null,
+        "user": {
+          "id": 23,
+          "firstname": "Choi",
+          "lastname": "Kang Lim",
+          "photo_url": null
+        }
+      },
+      {
+        "id": 105,
+        "type": "pray",
+        "created_at": "2022-03-28T22:16:10.000Z",
+        "updated_at": null,
+        "user": {
+          "id": 23,
+          "firstname": "Choi",
+          "lastname": "Kang Lim",
+          "photo_url": null
+        }
+      },
+      {
+        "id": 106,
+        "type": "pray",
+        "created_at": "2022-03-28T22:16:10.000Z",
+        "updated_at": null,
+        "user": {
+          "id": 23,
+          "firstname": "Choi",
+          "lastname": "Kang Lim",
+          "photo_url": null
+        }
+      },
+      {
+        "id": 107,
+        "type": "pray",
+        "created_at": "2022-03-28T22:16:10.000Z",
+        "updated_at": null,
+        "user": {
+          "id": 23,
+          "firstname": "Choi",
+          "lastname": "Kang Lim",
+          "photo_url": null
+        }
+      },
+      {
+        "id": 108,
+        "type": "pray",
+        "created_at": "2022-03-28T22:16:10.000Z",
+        "updated_at": null,
+        "user": {
+          "id": 23,
+          "firstname": "Choi",
+          "lastname": "Kang Lim",
+          "photo_url": null
+        }
+      }
+    ],
+    "comments": [
+      {
+        "id": 36,
+        "reacted": true,
+        "reacted_type": "",
+        "content": "tess",
+        "vnote_url": null,
+        "vnote_duration": null,
+        "created_at": "2022-03-28T02:59:47.000Z",
+        "updated_at": null,
+        "user": {
+          "id": 21,
+          "firstname": "Ta",
+          "lastname": "Si Leader",
+          "photo_url": "","is_leader": true
+        },
+        "reactions": []
+      }
+    ]
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "id": -1,
+    "day": 1,
+    "completed": false
+  },
+  {
+    "id": -2,
+    "day": 2,
+    "completed": false
+  },
+  {
+    "id": -3,
+    "day": 3,
+    "completed": false
+  },
+  {
+    "id": -4,
+    "day": 4,
+    "completed": false
+  },
+  {
+    "id": -5,
+    "day": 5,
+    "completed": false
+  }
+]

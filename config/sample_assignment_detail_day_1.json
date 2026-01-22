@@ -1,0 +1,71 @@
+{
+  "id": 7,
+  "study_session_id": 4,
+  "day": 1,
+  "prayer": "“Come back to me and have mercy on me; that’s only right for those who love your name” (Psalm 119:132).",
+  "video": "https://beadisciple-guest.s3.us-east-1.amazonaws.com/DFT%20%7C%20Addition/S2D1%20Andrew_Singh_Psalm_119_132_trimmed_final_c.mp4",
+  "personal_prayer": null,
+  "items": [
+    {
+      "id": 165,
+      "title": "Review - Video",
+      "type": "video",
+      "audio": null,
+      "completed": false
+    },
+    {
+      "id": 166,
+      "type": "video",
+      "title": "Review - Transcript",
+      "audio": null,
+      "completed": false
+    },
+    {
+      "id": 19,
+      "title": "Introduction to this Session",
+      "type": "text",
+      "audio": null,
+      "completed": false
+    },
+    {
+      "id": 145,
+      "title": "Genesis 3",
+      "type": "text",
+      "audio": null,
+      "completed": false
+    },
+    {
+      "id": 146,
+      "title": "Commentary",
+      "type": "text",
+      "audio": null,
+      "completed": false
+    },
+    {
+      "id": 147,
+      "title": "Group Discussion Question",
+      "type": "discussion",
+      "audio": null,
+      "group_discussion": {
+        "id": 2104,
+        "topic": "<p style=\"margin:0in;--invalid:Calibri;--invalid:11.0pt\">Please respond to the following question in the space provided. Return to this discussion thread often to read others’ responses.</p><p style=\"margin:0in;--invalid:Calibri;--invalid:11.0pt\"><br></p><p style=\"--invalid:0in;--invalid:normal\"><span style=\"--invalid:12.0pt\">When you are tempted, what are the words the serpent speaks to you?</span></p><p></p>",
+        "audio": "https://beadisciple-dev.s3.amazonaws.com/study_assignment_content_1693168016_867997523.mp3?AWSAccessKeyId=AKIATTNZPDIH3OJULPFB&Expires=1767668505&Signature=GC3Dr%2FM4xY%2BniXHK8wMyBdEPmdw%3D"
+      },
+      "completed": false
+    },
+    {
+      "id": 148,
+      "title": "Genesis 4",
+      "type": "text",
+      "audio": null,
+      "completed": false
+    },
+    {
+      "id": 149,
+      "title": "Personal Reflection Questions",
+      "type": "text",
+      "audio": null,
+      "completed": false
+    }
+  ]
+}

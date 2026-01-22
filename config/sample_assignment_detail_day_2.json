@@ -1,0 +1,45 @@
+{
+  "id": 8,
+  "study_session_id": 4,
+  "day": 2,
+  "prayer": "“Come back to me and have mercy on me; that’s only right for those who love your name” (Psalm 119:132).",
+  "video": "https://beadisciple-guest.s3.us-east-1.amazonaws.com/DFT%20%7C%20Addition/S2D2_Kudakwashe_Psalm_119_132-final.mp4",
+  "personal_prayer": null,
+  "items": [
+    {
+      "id": 168,
+      "title": "A Biblical Scholar's Perspective - Video",
+      "type": "video",
+      "audio": null,
+      "completed": false
+    },
+    {
+      "id": 167,
+      "title": "A Biblical Scholar's Perspective Video - Transcript",
+      "type": "text",
+      "audio": null,
+      "completed": false
+    },
+    {
+      "id": 20,
+      "title": "Reflections on A Biblical Scholar’s Perspective",
+      "type": "text",
+      "audio": null,
+      "completed": false
+    },
+    {
+      "id": 144,
+      "title": "Genesis 6:5–9:29",
+      "type": "text",
+      "audio": null,
+      "completed": false
+    },
+    {
+      "id": 151,
+      "title": "Personal Reflection Questions",
+      "type": "text",
+      "audio": null,
+      "completed": false
+    }
+  ]
+}

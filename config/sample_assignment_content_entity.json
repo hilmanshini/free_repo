@@ -1,0 +1,94 @@
+[
+  {
+    "id": 1,
+    "group_question_number": 1,
+    "question_number": 1,
+    "type": "bible_study",
+    "title": "Faith and Obedience",
+    "text": "Read the passage and reflect on the questions below.",
+    "name": "Week 1 Assignment",
+    "currated_note": true,
+    "duration": 600,
+    "bible": {
+      "title": "Book of James",
+      "code": "JAS",
+      "chapters": [
+        {
+          "title": "James Chapter 1",
+          "code": "JAS-1",
+          "book": "James",
+          "number": "1",
+          "audio": "https://example.com/james1.mp3",
+          "verses": [
+            {
+              "idByMobile": "JAS-1-1",
+              "code": "JAS.1.1",
+              "number": "1",
+              "text": "James, a servant of God and of the Lord Jesus Christ..."
+            }
+          ]
+        }
+      ]
+    },
+    "group_questions": [
+      {
+        "number": 1,
+        "title": "Understanding the Passage",
+        "questions": [
+          {
+            "number": 1,
+            "question": "Who is the author of this passage?",
+            "answer": "James."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "group_question_number": 2,
+    "question_number": 1,
+    "type": "video",
+    "title": "Faith in Action",
+    "video": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+    "duration": 420,
+    "question": "What does faith look like in daily life?",
+    "answer": "Faith is demonstrated through actions.",
+    "group_questions": [
+      {
+        "number": 2,
+        "title": "Reflection",
+        "questions": [
+          {
+            "number": 1,
+            "question": "How can you live out your faith this week?",
+            "answer": "By serving others."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "group_question_number": 3,
+    "question_number": 1,
+    "type": "audio",
+    "title": "Trusting God",
+    "audio": "https://example.com/trusting-god.mp3",
+    "duration": 300,
+    "text": "Listen to the audio and reflect on the message.",
+    "group_questions": [
+      {
+        "number": 3,
+        "title": "Personal Application",
+        "questions": [
+          {
+            "number": 1,
+            "question": "What is one area you need to trust God more?",
+            "answer": "My future plans."
+          }
+        ]
+      }
+    ]
+  }
+]

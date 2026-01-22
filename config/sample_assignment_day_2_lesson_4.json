@@ -1,0 +1,2339 @@
+[
+  {
+    "id": 189,
+    "type": "bible-segment",
+    "title": "",
+    "audio": "https://beadisciple-guest.s3.us-east-1.amazonaws.com/DFT%20I%20Session%202%20Audio/Scripture%20clips/DFT%20I%20S2D2%20Genesis%206_5%E2%80%939_29.mp3",
+    "bible_segment": {
+      "code": null,
+      "chapters": [
+        {
+          "title": "Genesis 6",
+          "code": "GEN.6",
+          "audio": "https://beadisciple-dev.s3.amazonaws.com/study_assignment_content_1698178843_830811531.mp3?AWSAccessKeyId=AKIATTNZPDIH3OJULPFB&Expires=1767669813&Signature=X9%2Fj434MxsJ%2BTTM1vhJ75k7wpNI%3D",
+          "number": "6",
+          "verses": [
+            {
+              "scope": {
+                "start": "5",
+                "end": "22"
+              },
+              "title": "Great flood",
+              "title_type": "text",
+              "label": null,
+              "note": null,
+              "paragraph": false,
+              "verses": [
+                {
+                  "code": "GEN.6.5",
+                  "number": "5",
+                  "type": "x-number",
+                  "paragraph": true,
+                  "paragraph2": false,
+                  "list": false,
+                  "break": false,
+                  "table": false,
+                  "table_type": null,
+                  "rtl": false,
+                  "items": [
+                    {
+                      "type": "text",
+                      "value": "The"
+                    },
+                    {
+                      "type": "text",
+                      "value": "LORD"
+                    },
+                    {
+                      "type": "text",
+                      "value": "saw that humanity had become thoroughly evil on the earth and that every idea their minds thought up was always completely evil."
+                    }
+                  ]
+                },
+                {
+                  "code": "GEN.6.6",
+                  "number": "6",
+                  "type": "x-number",
+                  "paragraph": false,
+                  "paragraph2": false,
+                  "list": false,
+                  "break": false,
+                  "table": false,
+                  "table_type": null,
+                  "rtl": false,
+                  "items": [
+                    {
+                      "type": "text",
+                      "value": "The"
+                    },
+                    {
+                      "type": "text",
+                      "value": "LORD"
+                    },
+                    {
+                      "type": "text",
+                      "value": "regretted making human beings on the earth, and he was heartbroken."
+                    }
+                  ]
+                },
+                {
+                  "code": "GEN.6.7",
+                  "number": "7",
+                  "type": "x-number",
+                  "paragraph": false,
+                  "paragraph2": false,
+                  "list": false,
+                  "break": false,
+                  "table": false,
+                  "table_type": null,
+                  "rtl": false,
+                  "items": [
+                    {
+                      "type": "text",
+                      "value": "So the"
+                    },
+                    {
+                      "type": "text",
+                      "value": "LORD"
+                    },
+                    {
+                      "type": "text",
+                      "value": "said, “I will wipe off of the land the human race that I’ve created: from human beings to livestock to the crawling things to the birds in the skies, because I regret I ever made them.”"
+                    }
+                  ]
+                },
+                {
+                  "code": "GEN.6.8",
+                  "number": "8",
+                  "type": "x-number",
+                  "paragraph": false,
+                  "paragraph2": false,
+                  "list": false,
+                  "break": false,
+                  "table": false,
+                  "table_type": null,
+                  "rtl": false,
+                  "items": [
+                    {
+                      "type": "text",
+                      "value": "But as for Noah, the"
+                    },
+                    {
+                      "type": "text",
+                      "value": "LORD"
+                    },
+                    {
+                      "type": "text",
+                      "value": "approved of him."
+                    }
+                  ]
+                },
+                {
+                  "code": "GEN.6.9",
+                  "number": "9",
+                  "type": "x-number",
+                  "paragraph": true,
+                  "paragraph2": false,
+                  "list": false,
+                  "break": false,
+                  "table": false,
+                  "table_type": null,
+                  "rtl": false,
+                  "items": [
+                    {
+                      "type": "text",
+                      "value": "These are Noah’s descendants. In his generation, Noah was a moral and exemplary man; he"
+                    },
+                    {
+                      "type": "note",
+                      "number": 1,
+                      "value": "<b>6.9 </b>Heb <i>Noah</i>"
+                    },
+                    {
+                      "type": "text",
+                      "value": "walked with God."
+                    }
+                  ]
+                },
+                {
+                  "code": "GEN.6.10",
+                  "number": "10",
+                  "type": "x-number",
+                  "paragraph": false,
+                  "paragraph2": false,
+                  "list": false,
+                  "break": false,
+                  "table": false,
+                  "table_type": null,
+                  "rtl": false,
+                  "items": [
+                    {
+                      "type": "text",
+                      "value": "Noah had three sons: Shem, Ham, and Japheth."
+                    }
+                  ]
+                },
+                {
+                  "code": "GEN.6.11",
+                  "number": "11",
+                  "type": "x-number",
+                  "paragraph": false,
+                  "paragraph2": false,
+                  "list": false,
+                  "break": false,
+                  "table": false,
+                  "table_type": null,
+                  "rtl": false,
+                  "items": [
+                    {
+                      "type": "text",
+                      "value": "In God’s sight, the earth had become corrupt and was filled with violence."
+                    }
+                  ]
+                },
+                {
+                  "code": "GEN.6.12",
+                  "number": "12",
+                  "type": "x-number",
+                  "paragraph": false,
+                  "paragraph2": false,
+                  "list": false,
+                  "break": false,
+                  "table": false,
+                  "table_type": null,
+                  "rtl": false,
+                  "items": [
+                    {
+                      "type": "text",
+                      "value": "God saw that the earth was corrupt, because all creatures behaved corruptly on the earth."
+                    }
+                  ]
+                },
+                {
+                  "code": "GEN.6.13",
+                  "number": "13",
+                  "type": "x-number",
+                  "paragraph": true,
+                  "paragraph2": false,
+                  "list": false,
+                  "break": false,
+                  "table": false,
+                  "table_type": null,
+                  "rtl": false,
+                  "items": [
+                    {
+                      "type": "text",
+                      "value": "God said to Noah, “The end has come for all creatures, since they have filled the earth with violence. I am now about to destroy them along with the earth,"
+                    }
+                  ]
+                },
+                {
+                  "code": "GEN.6.14",
+                  "number": "14",
+                  "type": "x-number",
+                  "paragraph": false,
+                  "paragraph2": false,
+                  "list": false,
+                  "break": false,
+                  "table": false,
+                  "table_type": null,
+                  "rtl": false,
+                  "items": [
+                    {
+                      "type": "text",
+                      "value": "so make a wooden ark."
+                    },
+                    {
+                      "type": "note",
+                      "number": 1,
+                      "value": "<b>6.14 </b>Or <i>ark of gopher wood</i>, an unknown species of tree"
+                    },
+                    {
+                      "type": "text",
+                      "value": "Make the ark with nesting places and cover it inside and out with tar."
+                    }
+                  ]
+                },
+                {
+                  "code": "GEN.6.15",
+                  "number": "15",
+                  "type": "x-number",
+                  "paragraph": false,
+                  "paragraph2": false,
+                  "list": false,
+                  "break": false,
+                  "table": false,
+                  "table_type": null,
+                  "rtl": false,
+                  "items": [
+                    {
+                      "type": "text",
+                      "value": "This is how you should make it: four hundred fifty feet long, seventy-five feet wide, and forty-five feet high."
+                    }
+                  ]
+                },
+                {
+                  "code": "GEN.6.16",
+                  "number": "16",
+                  "type": "x-number",
+                  "paragraph": false,
+                  "paragraph2": false,
+                  "list": false,
+                  "break": false,
+                  "table": false,
+                  "table_type": null,
+                  "rtl": false,
+                  "items": [
+                    {
+                      "type": "text",
+                      "value": "Make a roof"
+                    },
+                    {
+                      "type": "note",
+                      "number": 1,
+                      "value": "<b>6.16 </b>Or <i>window</i>"
+                    },
+                    {
+                      "type": "text",
+                      "value": "for the ark and complete it one foot from the top."
+                    },
+                    {
+                      "type": "note",
+                      "number": 2,
+                      "value": "<b>6.16 </b>Heb uncertain"
+                    },
+                    {
+                      "type": "text",
+                      "value": "Put a door in its side. In the hold below, make the second and third decks."
+                    }
+                  ]
+                },
+                {
+                  "code": "GEN.6.17",
+                  "number": "17",
+                  "type": "x-number",
+                  "paragraph": true,
+                  "paragraph2": false,
+                  "list": false,
+                  "break": false,
+                  "table": false,
+                  "table_type": null,
+                  "rtl": false,
+                  "items": [
+                    {
+                      "type": "text",
+                      "value": "“I am now bringing the floodwaters over the earth to destroy everything under the sky that breathes. Everything on earth is about to take its last breath."
+                    }
+                  ]
+                },
+                {
+                  "code": "GEN.6.18",
+                  "number": "18",
+                  "type": "x-number",
+                  "paragraph": false,
+                  "paragraph2": false,
+                  "list": false,
+                  "break": false,
+                  "table": false,
+                  "table_type": null,
+                  "rtl": false,
+                  "items": [
+                    {
+                      "type": "text",
+                      "value": "But I will set up my covenant with you. You will go into the ark together with your sons, your wife, and your sons’ wives."
+                    }
+                  ]
+                },
+                {
+                  "code": "GEN.6.19",
+                  "number": "19",
+                  "type": "x-number",
+                  "paragraph": false,
+                  "paragraph2": false,
+                  "list": false,
+                  "break": false,
+                  "table": false,
+                  "table_type": null,
+                  "rtl": false,
+                  "items": [
+                    {
+                      "type": "text",
+                      "value": "From all living things—from all creatures—you are to bring a pair, male and female, into the ark with you to keep them alive."
+                    }
+                  ]
+                },
+                {
+                  "code": "GEN.6.20",
+                  "number": "20",
+                  "type": "x-number",
+                  "paragraph": false,
+                  "paragraph2": false,
+                  "list": false,
+                  "break": false,
+                  "table": false,
+                  "table_type": null,
+                  "rtl": false,
+                  "items": [
+                    {
+                      "type": "text",
+                      "value": "From each kind of bird, from each kind of livestock, and from each kind of everything that crawls on the ground—a pair from each will go in with you to stay alive."
+                    }
+                  ]
+                },
+                {
+                  "code": "GEN.6.21",
+                  "number": "21",
+                  "type": "x-number",
+                  "paragraph": false,
+                  "paragraph2": false,
+                  "list": false,
+                  "break": false,
+                  "table": false,
+                  "table_type": null,
+                  "rtl": false,
+                  "items": [
+                    {
+                      "type": "text",
+                      "value": "Take some from every kind of food and stow it as food for you and for the animals.”"
+                    }
+                  ]
+                },
+                {
+                  "code": "GEN.6.22",
+                  "number": "22",
+                  "type": "x-number",
+                  "paragraph": true,
+                  "paragraph2": false,
+                  "list": false,
+                  "break": false,
+                  "table": false,
+                  "table_type": null,
+                  "rtl": false,
+                  "items": [
+                    {
+                      "type": "text",
+                      "value": "Noah did everything exactly as God commanded him."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": 3351,
+    "type": "bible-segment",
+    "title": "",
+    "bible_segment": {
+      "code": null,
+      "chapters": [
+        {
+          "title": "Genesis 7",
+          "code": "GEN.7",
+          "audio": "https://beadisciple-dev.s3.amazonaws.com/bible-audio/Genesis/Genesis-07.mp3?AWSAccessKeyId=AKIATTNZPDIH3OJULPFB&Expires=1767669813&Signature=zrUY9uIzyIvH%2Bq6Dpe04Zyw85R0%3D",
+          "number": "7",
+          "verses": [
+            {
+              "scope": {
+                "start": "1",
+                "end": "24"
+              },
+              "title": null,
+              "title_type": "text",
+              "label": null,
+              "note": null,
+              "paragraph": false,
+              "verses": [
+                {
+                  "code": "GEN.7.1",
+                  "number": "1",
+                  "type": "x-number",
+                  "paragraph": true,
+                  "paragraph2": false,
+                  "list": false,
+                  "break": false,
+                  "table": false,
+                  "table_type": null,
+                  "rtl": false,
+                  "items": [
+                    {
+                      "type": "text",
+                      "value": "The"
+                    },
+                    {
+                      "type": "text",
+                      "value": "LORD"
+                    },
+                    {
+                      "type": "text",
+                      "value": "said to Noah, “Go into the ark with your whole household, because among this generation I’ve seen that you are a moral man."
+                    }
+                  ]
+                },
+                {
+                  "code": "GEN.7.2",
+                  "number": "2",
+                  "type": "x-number",
+                  "paragraph": false,
+                  "paragraph2": false,
+                  "list": false,
+                  "break": false,
+                  "table": false,
+                  "table_type": null,
+                  "rtl": false,
+                  "items": [
+                    {
+                      "type": "text",
+                      "value": "From every clean animal, take seven pairs, a male and his mate; and from every unclean animal, take one pair, a male and his mate;"
+                    }
+                  ]
+                },
+                {
+                  "code": "GEN.7.3",
+                  "number": "3",
+                  "type": "x-number",
+                  "paragraph": false,
+                  "paragraph2": false,
+                  "list": false,
+                  "break": false,
+                  "table": false,
+                  "table_type": null,
+                  "rtl": false,
+                  "items": [
+                    {
+                      "type": "text",
+                      "value": "and from the birds in the sky as well, take seven pairs, male and female, so that their offspring will survive throughout the earth."
+                    }
+                  ]
+                },
+                {
+                  "code": "GEN.7.4",
+                  "number": "4",
+                  "type": "x-number",
+                  "paragraph": false,
+                  "paragraph2": false,
+                  "list": false,
+                  "break": false,
+                  "table": false,
+                  "table_type": null,
+                  "rtl": false,
+                  "items": [
+                    {
+                      "type": "text",
+                      "value": "In seven days from now I will send rain on the earth for forty days and forty nights. I will wipe off from the fertile land every living thing that I have made.”"
+                    }
+                  ]
+                },
+                {
+                  "code": "GEN.7.5",
+                  "number": "5",
+                  "type": "x-number",
+                  "paragraph": true,
+                  "paragraph2": false,
+                  "list": false,
+                  "break": false,
+                  "table": false,
+                  "table_type": null,
+                  "rtl": false,
+                  "items": [
+                    {
+                      "type": "text",
+                      "value": "Noah did everything the"
+                    },
+                    {
+                      "type": "text",
+                      "value": "LORD"
+                    },
+                    {
+                      "type": "text",
+                      "value": "commanded him."
+                    }
+                  ]
+                },
+                {
+                  "code": "GEN.7.6",
+                  "number": "6",
+                  "type": "x-number",
+                  "paragraph": true,
+                  "paragraph2": false,
+                  "list": false,
+                  "break": false,
+                  "table": false,
+                  "table_type": null,
+                  "rtl": false,
+                  "items": [
+                    {
+                      "type": "text",
+                      "value": "Noah was 600 years old when the floodwaters arrived on earth."
+                    }
+                  ]
+                },
+                {
+                  "code": "GEN.7.7",
+                  "number": "7",
+                  "type": "x-number",
+                  "paragraph": false,
+                  "paragraph2": false,
+                  "list": false,
+                  "break": false,
+                  "table": false,
+                  "table_type": null,
+                  "rtl": false,
+                  "items": [
+                    {
+                      "type": "text",
+                      "value": "Noah, his sons, his wife, and his sons’ wives with him entered the ark to escape the floodwaters."
+                    }
+                  ]
+                },
+                {
+                  "code": "GEN.7.8",
+                  "number": "8",
+                  "type": "x-number",
+                  "paragraph": false,
+                  "paragraph2": false,
+                  "list": false,
+                  "break": false,
+                  "table": false,
+                  "table_type": null,
+                  "rtl": false,
+                  "items": [
+                    {
+                      "type": "text",
+                      "value": "From the clean and unclean animals, from the birds and everything crawling on the ground,"
+                    }
+                  ]
+                },
+                {
+                  "code": "GEN.7.9",
+                  "number": "9",
+                  "type": "x-number",
+                  "paragraph": false,
+                  "paragraph2": false,
+                  "list": false,
+                  "break": false,
+                  "table": false,
+                  "table_type": null,
+                  "rtl": false,
+                  "items": [
+                    {
+                      "type": "text",
+                      "value": "two of each, male and female, went into the ark with Noah, just as God commanded Noah."
+                    }
+                  ]
+                },
+                {
+                  "code": "GEN.7.10",
+                  "number": "10",
+                  "type": "x-number",
+                  "paragraph": false,
+                  "paragraph2": false,
+                  "list": false,
+                  "break": false,
+                  "table": false,
+                  "table_type": null,
+                  "rtl": false,
+                  "items": [
+                    {
+                      "type": "text",
+                      "value": "After seven days, the floodwaters arrived on the earth."
+                    }
+                  ]
+                },
+                {
+                  "code": "GEN.7.11",
+                  "number": "11",
+                  "type": "x-number",
+                  "paragraph": false,
+                  "paragraph2": false,
+                  "list": false,
+                  "break": false,
+                  "table": false,
+                  "table_type": null,
+                  "rtl": false,
+                  "items": [
+                    {
+                      "type": "text",
+                      "value": "In the six hundredth year of Noah’s life, in the second month, on the seventeenth day—on that day all the springs of the deep sea erupted, and the windows in the skies opened."
+                    }
+                  ]
+                },
+                {
+                  "code": "GEN.7.12",
+                  "number": "12",
+                  "type": "x-number",
+                  "paragraph": false,
+                  "paragraph2": false,
+                  "list": false,
+                  "break": false,
+                  "table": false,
+                  "table_type": null,
+                  "rtl": false,
+                  "items": [
+                    {
+                      "type": "text",
+                      "value": "It rained on the earth forty days and forty nights."
+                    }
+                  ]
+                },
+                {
+                  "code": "GEN.7.13",
+                  "number": "13",
+                  "type": "x-number",
+                  "paragraph": false,
+                  "paragraph2": false,
+                  "list": false,
+                  "break": false,
+                  "table": false,
+                  "table_type": null,
+                  "rtl": false,
+                  "items": [
+                    {
+                      "type": "text",
+                      "value": "That same day Noah, with his sons Shem, Ham, and Japheth, Noah’s wife, and his sons’ three wives, went into the ark."
+                    }
+                  ]
+                },
+                {
+                  "code": "GEN.7.14",
+                  "number": "14",
+                  "type": "x-number",
+                  "paragraph": false,
+                  "paragraph2": false,
+                  "list": false,
+                  "break": false,
+                  "table": false,
+                  "table_type": null,
+                  "rtl": false,
+                  "items": [
+                    {
+                      "type": "text",
+                      "value": "They and every kind of animal—every kind of livestock, every kind that crawls on the ground, every kind of bird"
+                    },
+                    {
+                      "type": "note",
+                      "number": 1,
+                      "value": "<b>7.14 </b>LXX; MT <i>every bird, every winged thing</i>"
+                    },
+                    {
+                      "type": "text",
+                      "value": "—"
+                    }
+                  ]
+                },
+                {
+                  "code": "GEN.7.15",
+                  "number": "15",
+                  "type": "x-number",
+                  "paragraph": false,
+                  "paragraph2": false,
+                  "list": false,
+                  "break": false,
+                  "table": false,
+                  "table_type": null,
+                  "rtl": false,
+                  "items": [
+                    {
+                      "type": "text",
+                      "value": "they came to Noah and entered the ark, two of every creature that breathes."
+                    }
+                  ]
+                },
+                {
+                  "code": "GEN.7.16",
+                  "number": "16",
+                  "type": "x-number",
+                  "paragraph": false,
+                  "paragraph2": false,
+                  "list": false,
+                  "break": false,
+                  "table": false,
+                  "table_type": null,
+                  "rtl": false,
+                  "items": [
+                    {
+                      "type": "text",
+                      "value": "Male and female of every creature went in, just as God had commanded him. Then the"
+                    },
+                    {
+                      "type": "text",
+                      "value": "LORD"
+                    },
+                    {
+                      "type": "text",
+                      "value": "closed the door behind them."
+                    },
+                    {
+                      "type": "note",
+                      "number": 1,
+                      "value": "<b>7.16 </b>Heb lacks <i>the door.</i>"
+                    }
+                  ]
+                },
+                {
+                  "code": "GEN.7.17",
+                  "number": "17",
+                  "type": "x-number",
+                  "paragraph": true,
+                  "paragraph2": false,
+                  "list": false,
+                  "break": false,
+                  "table": false,
+                  "table_type": null,
+                  "rtl": false,
+                  "items": [
+                    {
+                      "type": "text",
+                      "value": "The flood remained on the earth for forty days. The waters rose, lifted the ark, and it rode high above the earth."
+                    }
+                  ]
+                },
+                {
+                  "code": "GEN.7.18",
+                  "number": "18",
+                  "type": "x-number",
+                  "paragraph": false,
+                  "paragraph2": false,
+                  "list": false,
+                  "break": false,
+                  "table": false,
+                  "table_type": null,
+                  "rtl": false,
+                  "items": [
+                    {
+                      "type": "text",
+                      "value": "The waters rose and spread out over the earth. The ark floated on the surface of the waters."
+                    }
+                  ]
+                },
+                {
+                  "code": "GEN.7.19",
+                  "number": "19",
+                  "type": "x-number",
+                  "paragraph": false,
+                  "paragraph2": false,
+                  "list": false,
+                  "break": false,
+                  "table": false,
+                  "table_type": null,
+                  "rtl": false,
+                  "items": [
+                    {
+                      "type": "text",
+                      "value": "The waters rose even higher over the earth; they covered all of the highest mountains under the sky."
+                    }
+                  ]
+                },
+                {
+                  "code": "GEN.7.20",
+                  "number": "20",
+                  "type": "x-number",
+                  "paragraph": false,
+                  "paragraph2": false,
+                  "list": false,
+                  "break": false,
+                  "table": false,
+                  "table_type": null,
+                  "rtl": false,
+                  "items": [
+                    {
+                      "type": "text",
+                      "value": "The waters rose twenty-three feet high, covering the mountains."
+                    }
+                  ]
+                },
+                {
+                  "code": "GEN.7.21",
+                  "number": "21",
+                  "type": "x-number",
+                  "paragraph": false,
+                  "paragraph2": false,
+                  "list": false,
+                  "break": false,
+                  "table": false,
+                  "table_type": null,
+                  "rtl": false,
+                  "items": [
+                    {
+                      "type": "text",
+                      "value": "Every creature took its last breath: the things crawling on the ground, birds, livestock, wild animals, everything swarming on the ground, and every human being."
+                    }
+                  ]
+                },
+                {
+                  "code": "GEN.7.22",
+                  "number": "22",
+                  "type": "x-number",
+                  "paragraph": false,
+                  "paragraph2": false,
+                  "list": false,
+                  "break": false,
+                  "table": false,
+                  "table_type": null,
+                  "rtl": false,
+                  "items": [
+                    {
+                      "type": "text",
+                      "value": "Everything on dry land with life’s breath in its nostrils died."
+                    }
+                  ]
+                },
+                {
+                  "code": "GEN.7.23",
+                  "number": "23",
+                  "type": "x-number",
+                  "paragraph": false,
+                  "paragraph2": false,
+                  "list": false,
+                  "break": false,
+                  "table": false,
+                  "table_type": null,
+                  "rtl": false,
+                  "items": [
+                    {
+                      "type": "text",
+                      "value": "God wiped away every living thing that was on the fertile land—from human beings to livestock to crawling things to birds in the sky. They were wiped off the earth. Only Noah and those with him in the ark were left."
+                    }
+                  ]
+                },
+                {
+                  "code": "GEN.7.24",
+                  "number": "24",
+                  "type": "x-number",
+                  "paragraph": false,
+                  "paragraph2": false,
+                  "list": false,
+                  "break": false,
+                  "table": false,
+                  "table_type": null,
+                  "rtl": false,
+                  "items": [
+                    {
+                      "type": "text",
+                      "value": "The waters rose over the earth for one hundred fifty days."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": 3352,
+    "type": "bible-segment",
+    "title": "",
+    "bible_segment": {
+      "code": null,
+      "chapters": [
+        {
+          "title": "Genesis 8",
+          "code": "GEN.8",
+          "audio": "https://beadisciple-dev.s3.amazonaws.com/bible-audio/Genesis/Genesis-08.mp3?AWSAccessKeyId=AKIATTNZPDIH3OJULPFB&Expires=1767669813&Signature=SH3ikQ2gulRS4E4mfFMXR5lB1nI%3D",
+          "number": "8",
+          "verses": [
+            {
+              "scope": {
+                "start": "1",
+                "end": "19"
+              },
+              "title": null,
+              "title_type": "text",
+              "label": null,
+              "note": null,
+              "paragraph": false,
+              "verses": [
+                {
+                  "code": "GEN.8.1",
+                  "number": "1",
+                  "type": "x-number",
+                  "paragraph": true,
+                  "paragraph2": false,
+                  "list": false,
+                  "break": false,
+                  "table": false,
+                  "table_type": null,
+                  "rtl": false,
+                  "items": [
+                    {
+                      "type": "text",
+                      "value": "God remembered Noah, all those alive, and all the animals with him in the ark. God sent a wind over the earth so that the waters receded."
+                    }
+                  ]
+                },
+                {
+                  "code": "GEN.8.2",
+                  "number": "2",
+                  "type": "x-number",
+                  "paragraph": false,
+                  "paragraph2": false,
+                  "list": false,
+                  "break": false,
+                  "table": false,
+                  "table_type": null,
+                  "rtl": false,
+                  "items": [
+                    {
+                      "type": "text",
+                      "value": "The springs of the deep sea and the skies"
+                    },
+                    {
+                      "type": "note",
+                      "number": 1,
+                      "value": "<b>8.2 </b>Or <i>the windows of the skies</i>"
+                    },
+                    {
+                      "type": "text",
+                      "value": "closed up. The skies held back the rain."
+                    }
+                  ]
+                },
+                {
+                  "code": "GEN.8.3",
+                  "number": "3",
+                  "type": "x-number",
+                  "paragraph": false,
+                  "paragraph2": false,
+                  "list": false,
+                  "break": false,
+                  "table": false,
+                  "table_type": null,
+                  "rtl": false,
+                  "items": [
+                    {
+                      "type": "text",
+                      "value": "The waters receded gradually from the earth. After one hundred fifty days, the waters decreased;"
+                    }
+                  ]
+                },
+                {
+                  "code": "GEN.8.4",
+                  "number": "4",
+                  "type": "x-number",
+                  "paragraph": false,
+                  "paragraph2": false,
+                  "list": false,
+                  "break": false,
+                  "table": false,
+                  "table_type": null,
+                  "rtl": false,
+                  "items": [
+                    {
+                      "type": "text",
+                      "value": "and in the seventh month, on the seventeenth day, the ark came to rest on the Ararat mountains."
+                    }
+                  ]
+                },
+                {
+                  "code": "GEN.8.5",
+                  "number": "5",
+                  "type": "x-number",
+                  "paragraph": false,
+                  "paragraph2": false,
+                  "list": false,
+                  "break": false,
+                  "table": false,
+                  "table_type": null,
+                  "rtl": false,
+                  "items": [
+                    {
+                      "type": "text",
+                      "value": "The waters decreased gradually until the tenth month, and on the first day of the tenth month the mountain peaks appeared."
+                    }
+                  ]
+                },
+                {
+                  "code": "GEN.8.6",
+                  "number": "6",
+                  "type": "x-number",
+                  "paragraph": true,
+                  "paragraph2": false,
+                  "list": false,
+                  "break": false,
+                  "table": false,
+                  "table_type": null,
+                  "rtl": false,
+                  "items": [
+                    {
+                      "type": "text",
+                      "value": "After forty days, Noah opened the window of the ark that he had made."
+                    }
+                  ]
+                },
+                {
+                  "code": "GEN.8.7",
+                  "number": "7",
+                  "type": "x-number",
+                  "paragraph": false,
+                  "paragraph2": false,
+                  "list": false,
+                  "break": false,
+                  "table": false,
+                  "table_type": null,
+                  "rtl": false,
+                  "items": [
+                    {
+                      "type": "text",
+                      "value": "He sent out a raven, and it flew back and forth until the waters over the entire earth had dried up."
+                    }
+                  ]
+                },
+                {
+                  "code": "GEN.8.8",
+                  "number": "8",
+                  "type": "x-number",
+                  "paragraph": false,
+                  "paragraph2": false,
+                  "list": false,
+                  "break": false,
+                  "table": false,
+                  "table_type": null,
+                  "rtl": false,
+                  "items": [
+                    {
+                      "type": "text",
+                      "value": "Then he sent out a dove to see if the waters on all of the fertile land had subsided,"
+                    }
+                  ]
+                },
+                {
+                  "code": "GEN.8.9",
+                  "number": "9",
+                  "type": "x-number",
+                  "paragraph": false,
+                  "paragraph2": false,
+                  "list": false,
+                  "break": false,
+                  "table": false,
+                  "table_type": null,
+                  "rtl": false,
+                  "items": [
+                    {
+                      "type": "text",
+                      "value": "but the dove found no place to set its foot. It returned to him in the ark since waters still covered the entire earth. Noah stretched out his hand, took it, and brought it back into the ark."
+                    }
+                  ]
+                },
+                {
+                  "code": "GEN.8.10",
+                  "number": "10",
+                  "type": "x-number",
+                  "paragraph": false,
+                  "paragraph2": false,
+                  "list": false,
+                  "break": false,
+                  "table": false,
+                  "table_type": null,
+                  "rtl": false,
+                  "items": [
+                    {
+                      "type": "text",
+                      "value": "He waited seven more days and sent the dove out from the ark again."
+                    }
+                  ]
+                },
+                {
+                  "code": "GEN.8.11",
+                  "number": "11",
+                  "type": "x-number",
+                  "paragraph": false,
+                  "paragraph2": false,
+                  "list": false,
+                  "break": false,
+                  "table": false,
+                  "table_type": null,
+                  "rtl": false,
+                  "items": [
+                    {
+                      "type": "text",
+                      "value": "The dove came back to him in the evening, grasping a torn olive leaf in its beak. Then Noah knew that the waters were subsiding from the earth."
+                    }
+                  ]
+                },
+                {
+                  "code": "GEN.8.12",
+                  "number": "12",
+                  "type": "x-number",
+                  "paragraph": false,
+                  "paragraph2": false,
+                  "list": false,
+                  "break": false,
+                  "table": false,
+                  "table_type": null,
+                  "rtl": false,
+                  "items": [
+                    {
+                      "type": "text",
+                      "value": "He waited seven more days and sent out the dove, but it didn’t come back to him again."
+                    }
+                  ]
+                },
+                {
+                  "code": "GEN.8.13",
+                  "number": "13",
+                  "type": "x-number",
+                  "paragraph": false,
+                  "paragraph2": false,
+                  "list": false,
+                  "break": false,
+                  "table": false,
+                  "table_type": null,
+                  "rtl": false,
+                  "items": [
+                    {
+                      "type": "text",
+                      "value": "In Noah’s six hundred first year, on the first day of the first month, the waters dried up from the earth. Noah removed the ark’s hatch and saw that the surface of the fertile land had dried up."
+                    }
+                  ]
+                },
+                {
+                  "code": "GEN.8.14",
+                  "number": "14",
+                  "type": "x-number",
+                  "paragraph": false,
+                  "paragraph2": false,
+                  "list": false,
+                  "break": false,
+                  "table": false,
+                  "table_type": null,
+                  "rtl": false,
+                  "items": [
+                    {
+                      "type": "text",
+                      "value": "In the second month, on the twenty-seventh day, the earth was dry."
+                    }
+                  ]
+                },
+                {
+                  "code": "GEN.8.15",
+                  "number": "15",
+                  "type": "x-number",
+                  "paragraph": true,
+                  "paragraph2": false,
+                  "list": false,
+                  "break": false,
+                  "table": false,
+                  "table_type": null,
+                  "rtl": false,
+                  "items": [
+                    {
+                      "type": "text",
+                      "value": "God spoke to Noah,"
+                    }
+                  ]
+                },
+                {
+                  "code": "GEN.8.16",
+                  "number": "16",
+                  "type": "x-number",
+                  "paragraph": false,
+                  "paragraph2": false,
+                  "list": false,
+                  "break": false,
+                  "table": false,
+                  "table_type": null,
+                  "rtl": false,
+                  "items": [
+                    {
+                      "type": "text",
+                      "value": "“Go out of the ark, you and your wife, your sons, and your sons’ wives with you."
+                    }
+                  ]
+                },
+                {
+                  "code": "GEN.8.17",
+                  "number": "17",
+                  "type": "x-number",
+                  "paragraph": false,
+                  "paragraph2": false,
+                  "list": false,
+                  "break": false,
+                  "table": false,
+                  "table_type": null,
+                  "rtl": false,
+                  "items": [
+                    {
+                      "type": "text",
+                      "value": "Bring out with you all the animals of every kind—birds, livestock, everything crawling on the ground—so that they may populate the earth, be fertile, and multiply on the earth.”"
+                    }
+                  ]
+                },
+                {
+                  "code": "GEN.8.18",
+                  "number": "18",
+                  "type": "x-number",
+                  "paragraph": false,
+                  "paragraph2": false,
+                  "list": false,
+                  "break": false,
+                  "table": false,
+                  "table_type": null,
+                  "rtl": false,
+                  "items": [
+                    {
+                      "type": "text",
+                      "value": "So Noah went out of the ark with his sons, his wife, and his sons’ wives."
+                    }
+                  ]
+                },
+                {
+                  "code": "GEN.8.19",
+                  "number": "19",
+                  "type": "x-number",
+                  "paragraph": false,
+                  "paragraph2": false,
+                  "list": false,
+                  "break": false,
+                  "table": false,
+                  "table_type": null,
+                  "rtl": false,
+                  "items": [
+                    {
+                      "type": "text",
+                      "value": "All the animals, all the livestock,"
+                    },
+                    {
+                      "type": "note",
+                      "number": 1,
+                      "value": "<b>8.19 </b>LXX; MT lacks <i>all the livestock.</i>"
+                    },
+                    {
+                      "type": "text",
+                      "value": "all the birds, and everything crawling on the ground, came out of the ark by their families."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "scope": {
+                "start": "20",
+                "end": "22"
+              },
+              "title": "God’s promise for the earth",
+              "title_type": "text",
+              "label": null,
+              "note": null,
+              "paragraph": false,
+              "verses": [
+                {
+                  "code": "GEN.8.20",
+                  "number": "20",
+                  "type": "x-number",
+                  "paragraph": true,
+                  "paragraph2": false,
+                  "list": false,
+                  "break": false,
+                  "table": false,
+                  "table_type": null,
+                  "rtl": false,
+                  "items": [
+                    {
+                      "type": "text",
+                      "value": "Noah built an altar to the"
+                    },
+                    {
+                      "type": "text",
+                      "value": "LORD"
+                    },
+                    {
+                      "type": "text",
+                      "value": ". He took some of the clean large animals and some of the clean birds, and placed entirely burned offerings on the altar."
+                    }
+                  ]
+                },
+                {
+                  "code": "GEN.8.21",
+                  "number": "21",
+                  "type": "x-number",
+                  "paragraph": false,
+                  "paragraph2": false,
+                  "list": false,
+                  "break": false,
+                  "table": false,
+                  "table_type": null,
+                  "rtl": false,
+                  "items": [
+                    {
+                      "type": "text",
+                      "value": "The"
+                    },
+                    {
+                      "type": "text",
+                      "value": "LORD"
+                    },
+                    {
+                      "type": "text",
+                      "value": "smelled the pleasing scent, and the"
+                    },
+                    {
+                      "type": "text",
+                      "value": "LORD"
+                    },
+                    {
+                      "type": "text",
+                      "value": "thought to himself, I will not curse the fertile land anymore because of human beings since the ideas of the human mind are evil from their youth. I will never again destroy every living thing as I have done."
+                    }
+                  ]
+                },
+                {
+                  "code": "GEN.8.22",
+                  "number": "22",
+                  "type": "x-number",
+                  "paragraph": false,
+                  "paragraph2": false,
+                  "list": false,
+                  "break": true,
+                  "table": false,
+                  "table_type": null,
+                  "rtl": false,
+                  "items": [
+                    {
+                      "type": "text",
+                      "value": "As long as the earth exists,"
+                    }
+                  ]
+                },
+                {
+                  "code": "GEN.8.22",
+                  "number": "22",
+                  "type": "x-no-number",
+                  "paragraph": false,
+                  "paragraph2": false,
+                  "list": false,
+                  "break": true,
+                  "table": false,
+                  "table_type": null,
+                  "rtl": false,
+                  "items": [
+                    {
+                      "type": "text",
+                      "value": "seedtime and harvest,"
+                    }
+                  ]
+                },
+                {
+                  "code": "GEN.8.22",
+                  "number": "22",
+                  "type": "x-no-number",
+                  "paragraph": false,
+                  "paragraph2": false,
+                  "list": false,
+                  "break": true,
+                  "table": false,
+                  "table_type": null,
+                  "rtl": false,
+                  "items": [
+                    {
+                      "type": "text",
+                      "value": "cold and hot,"
+                    }
+                  ]
+                },
+                {
+                  "code": "GEN.8.22",
+                  "number": "22",
+                  "type": "x-no-number",
+                  "paragraph": false,
+                  "paragraph2": false,
+                  "list": false,
+                  "break": true,
+                  "table": false,
+                  "table_type": null,
+                  "rtl": false,
+                  "items": [
+                    {
+                      "type": "text",
+                      "value": "summer and autumn,"
+                    }
+                  ]
+                },
+                {
+                  "code": "GEN.8.22",
+                  "number": "22",
+                  "type": "x-no-number",
+                  "paragraph": false,
+                  "paragraph2": false,
+                  "list": false,
+                  "break": true,
+                  "table": false,
+                  "table_type": null,
+                  "rtl": false,
+                  "items": [
+                    {
+                      "type": "text",
+                      "value": "day and night"
+                    }
+                  ]
+                },
+                {
+                  "code": "GEN.8.22",
+                  "number": "22",
+                  "type": "x-no-number",
+                  "paragraph": false,
+                  "paragraph2": false,
+                  "list": false,
+                  "break": true,
+                  "table": false,
+                  "table_type": null,
+                  "rtl": false,
+                  "items": [
+                    {
+                      "type": "text",
+                      "value": "will not cease."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": 3353,
+    "type": "bible-segment",
+    "title": "",
+    "bible_segment": {
+      "code": null,
+      "chapters": [
+        {
+          "title": "Genesis 9",
+          "code": "GEN.9",
+          "audio": "https://beadisciple-dev.s3.amazonaws.com/bible-audio/Genesis/Genesis-09.mp3?AWSAccessKeyId=AKIATTNZPDIH3OJULPFB&Expires=1767669813&Signature=Tn8DqMVUGWvoLmLSyEEVaZdAkDI%3D",
+          "number": "9",
+          "verses": [
+            {
+              "scope": {
+                "start": "1",
+                "end": "17"
+              },
+              "title": "God’s covenant with all life",
+              "title_type": "text",
+              "label": null,
+              "note": null,
+              "paragraph": false,
+              "verses": [
+                {
+                  "code": "GEN.9.1",
+                  "number": "1",
+                  "type": "x-number",
+                  "paragraph": true,
+                  "paragraph2": false,
+                  "list": false,
+                  "break": false,
+                  "table": false,
+                  "table_type": null,
+                  "rtl": false,
+                  "items": [
+                    {
+                      "type": "text",
+                      "value": "God blessed Noah and his sons and said to them, “Be fertile, multiply, and fill the earth."
+                    }
+                  ]
+                },
+                {
+                  "code": "GEN.9.2",
+                  "number": "2",
+                  "type": "x-number",
+                  "paragraph": false,
+                  "paragraph2": false,
+                  "list": false,
+                  "break": false,
+                  "table": false,
+                  "table_type": null,
+                  "rtl": false,
+                  "items": [
+                    {
+                      "type": "text",
+                      "value": "All of the animals on the earth will fear you and dread you—all the birds in the skies, everything crawling on the ground, and all of the sea’s fish. They are in your power."
+                    }
+                  ]
+                },
+                {
+                  "code": "GEN.9.3",
+                  "number": "3",
+                  "type": "x-number",
+                  "paragraph": false,
+                  "paragraph2": false,
+                  "list": false,
+                  "break": false,
+                  "table": false,
+                  "table_type": null,
+                  "rtl": false,
+                  "items": [
+                    {
+                      "type": "text",
+                      "value": "Everything that lives and moves will be your food. Just as I gave you the green grasses, I now give you everything."
+                    }
+                  ]
+                },
+                {
+                  "code": "GEN.9.4",
+                  "number": "4",
+                  "type": "x-number",
+                  "paragraph": false,
+                  "paragraph2": false,
+                  "list": false,
+                  "break": false,
+                  "table": false,
+                  "table_type": null,
+                  "rtl": false,
+                  "items": [
+                    {
+                      "type": "text",
+                      "value": "However, you must not eat meat with its life, its blood, in it."
+                    }
+                  ]
+                },
+                {
+                  "code": "GEN.9.5",
+                  "number": "5",
+                  "type": "x-number",
+                  "paragraph": false,
+                  "paragraph2": false,
+                  "list": false,
+                  "break": true,
+                  "table": false,
+                  "table_type": null,
+                  "rtl": false,
+                  "items": [
+                    {
+                      "type": "text",
+                      "value": "I will surely demand your blood for a human life,"
+                    }
+                  ]
+                },
+                {
+                  "code": "GEN.9.5",
+                  "number": "5",
+                  "type": "x-no-number",
+                  "paragraph": true,
+                  "paragraph2": false,
+                  "list": false,
+                  "break": false,
+                  "table": false,
+                  "table_type": null,
+                  "rtl": false,
+                  "items": [
+                    {
+                      "type": "text",
+                      "value": "from every living thing I will demand it."
+                    }
+                  ]
+                },
+                {
+                  "code": "GEN.9.5",
+                  "number": "5",
+                  "type": "x-no-number",
+                  "paragraph": false,
+                  "paragraph2": false,
+                  "list": false,
+                  "break": true,
+                  "table": false,
+                  "table_type": null,
+                  "rtl": false,
+                  "items": [
+                    {
+                      "type": "text",
+                      "value": "From humans, from a man for his brother,"
+                    }
+                  ]
+                },
+                {
+                  "code": "GEN.9.5",
+                  "number": "5",
+                  "type": "x-no-number",
+                  "paragraph": true,
+                  "paragraph2": false,
+                  "list": false,
+                  "break": false,
+                  "table": false,
+                  "table_type": null,
+                  "rtl": false,
+                  "items": [
+                    {
+                      "type": "text",
+                      "value": "I will demand something for a human life."
+                    }
+                  ]
+                },
+                {
+                  "code": "GEN.9.6",
+                  "number": "6",
+                  "type": "x-number",
+                  "paragraph": false,
+                  "paragraph2": false,
+                  "list": false,
+                  "break": true,
+                  "table": false,
+                  "table_type": null,
+                  "rtl": false,
+                  "items": [
+                    {
+                      "type": "text",
+                      "value": "Whoever sheds human blood,"
+                    }
+                  ]
+                },
+                {
+                  "code": "GEN.9.6",
+                  "number": "6",
+                  "type": "x-no-number",
+                  "paragraph": true,
+                  "paragraph2": false,
+                  "list": false,
+                  "break": false,
+                  "table": false,
+                  "table_type": null,
+                  "rtl": false,
+                  "items": [
+                    {
+                      "type": "text",
+                      "value": "by a human his blood will be shed;"
+                    }
+                  ]
+                },
+                {
+                  "code": "GEN.9.6",
+                  "number": "6",
+                  "type": "x-no-number",
+                  "paragraph": false,
+                  "paragraph2": false,
+                  "list": false,
+                  "break": true,
+                  "table": false,
+                  "table_type": null,
+                  "rtl": false,
+                  "items": [
+                    {
+                      "type": "text",
+                      "value": "for in the divine image"
+                    }
+                  ]
+                },
+                {
+                  "code": "GEN.9.6",
+                  "number": "6",
+                  "type": "x-no-number",
+                  "paragraph": true,
+                  "paragraph2": false,
+                  "list": false,
+                  "break": false,
+                  "table": false,
+                  "table_type": null,
+                  "rtl": false,
+                  "items": [
+                    {
+                      "type": "text",
+                      "value": "God made human beings."
+                    }
+                  ]
+                },
+                {
+                  "code": "GEN.9.7",
+                  "number": "7",
+                  "type": "x-number",
+                  "paragraph": true,
+                  "paragraph2": false,
+                  "list": false,
+                  "break": false,
+                  "table": false,
+                  "table_type": null,
+                  "rtl": false,
+                  "items": [
+                    {
+                      "type": "text",
+                      "value": "As for you, be fertile and multiply. Populate the earth and multiply in it.”"
+                    }
+                  ]
+                },
+                {
+                  "code": "GEN.9.8",
+                  "number": "8",
+                  "type": "x-number",
+                  "paragraph": false,
+                  "paragraph2": false,
+                  "list": false,
+                  "break": false,
+                  "table": false,
+                  "table_type": null,
+                  "rtl": false,
+                  "items": [
+                    {
+                      "type": "text",
+                      "value": "God said to Noah and to his sons with him,"
+                    }
+                  ]
+                },
+                {
+                  "code": "GEN.9.9",
+                  "number": "9",
+                  "type": "x-number",
+                  "paragraph": false,
+                  "paragraph2": false,
+                  "list": false,
+                  "break": false,
+                  "table": false,
+                  "table_type": null,
+                  "rtl": false,
+                  "items": [
+                    {
+                      "type": "text",
+                      "value": "“I am now setting up my covenant with you, with your descendants,"
+                    }
+                  ]
+                },
+                {
+                  "code": "GEN.9.10",
+                  "number": "10",
+                  "type": "x-number",
+                  "paragraph": false,
+                  "paragraph2": false,
+                  "list": false,
+                  "break": false,
+                  "table": false,
+                  "table_type": null,
+                  "rtl": false,
+                  "items": [
+                    {
+                      "type": "text",
+                      "value": "and with every living being with you—with the birds, with the large animals, and with all the animals of the earth, leaving the ark with you."
+                    },
+                    {
+                      "type": "note",
+                      "number": 1,
+                      "value": "<b>9.10 </b>LXX; MT includes <i>for all the animals of the earth.</i>"
+                    }
+                  ]
+                },
+                {
+                  "code": "GEN.9.11",
+                  "number": "11",
+                  "type": "x-number",
+                  "paragraph": false,
+                  "paragraph2": false,
+                  "list": false,
+                  "break": false,
+                  "table": false,
+                  "table_type": null,
+                  "rtl": false,
+                  "items": [
+                    {
+                      "type": "text",
+                      "value": "I will set up my covenant with you so that never again will all life be cut off by floodwaters. There will never again be a flood to destroy the earth.”"
+                    }
+                  ]
+                },
+                {
+                  "code": "GEN.9.12",
+                  "number": "12",
+                  "type": "x-number",
+                  "paragraph": true,
+                  "paragraph2": false,
+                  "list": false,
+                  "break": false,
+                  "table": false,
+                  "table_type": null,
+                  "rtl": false,
+                  "items": [
+                    {
+                      "type": "text",
+                      "value": "God said, “This is the symbol of the covenant that I am drawing up between me and you and every living thing with you, on behalf of every future generation."
+                    }
+                  ]
+                },
+                {
+                  "code": "GEN.9.13",
+                  "number": "13",
+                  "type": "x-number",
+                  "paragraph": false,
+                  "paragraph2": false,
+                  "list": false,
+                  "break": false,
+                  "table": false,
+                  "table_type": null,
+                  "rtl": false,
+                  "items": [
+                    {
+                      "type": "text",
+                      "value": "I have placed my bow in the clouds; it will be the symbol of the covenant between me and the earth."
+                    }
+                  ]
+                },
+                {
+                  "code": "GEN.9.14",
+                  "number": "14",
+                  "type": "x-number",
+                  "paragraph": false,
+                  "paragraph2": false,
+                  "list": false,
+                  "break": false,
+                  "table": false,
+                  "table_type": null,
+                  "rtl": false,
+                  "items": [
+                    {
+                      "type": "text",
+                      "value": "When I bring clouds over the earth and the bow appears in the clouds,"
+                    }
+                  ]
+                },
+                {
+                  "code": "GEN.9.15",
+                  "number": "15",
+                  "type": "x-number",
+                  "paragraph": false,
+                  "paragraph2": false,
+                  "list": false,
+                  "break": false,
+                  "table": false,
+                  "table_type": null,
+                  "rtl": false,
+                  "items": [
+                    {
+                      "type": "text",
+                      "value": "I will remember the covenant between me and you and every living being among all the creatures. Floodwaters will never again destroy all creatures."
+                    }
+                  ]
+                },
+                {
+                  "code": "GEN.9.16",
+                  "number": "16",
+                  "type": "x-number",
+                  "paragraph": false,
+                  "paragraph2": false,
+                  "list": false,
+                  "break": false,
+                  "table": false,
+                  "table_type": null,
+                  "rtl": false,
+                  "items": [
+                    {
+                      "type": "text",
+                      "value": "The bow will be in the clouds, and upon seeing it I will remember the enduring covenant between God and every living being of all the earth’s creatures.”"
+                    }
+                  ]
+                },
+                {
+                  "code": "GEN.9.17",
+                  "number": "17",
+                  "type": "x-number",
+                  "paragraph": false,
+                  "paragraph2": false,
+                  "list": false,
+                  "break": false,
+                  "table": false,
+                  "table_type": null,
+                  "rtl": false,
+                  "items": [
+                    {
+                      "type": "text",
+                      "value": "God said to Noah, “This is the symbol of the covenant that I have set up between me and all creatures on earth.”"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "scope": {
+                "start": "18",
+                "end": "29"
+              },
+              "title": "Shem’s blessing and Canaan’s curse",
+              "title_type": "text",
+              "label": null,
+              "note": null,
+              "paragraph": false,
+              "verses": [
+                {
+                  "code": "GEN.9.18",
+                  "number": "18",
+                  "type": "x-number",
+                  "paragraph": true,
+                  "paragraph2": false,
+                  "list": false,
+                  "break": false,
+                  "table": false,
+                  "table_type": null,
+                  "rtl": false,
+                  "items": [
+                    {
+                      "type": "text",
+                      "value": "Noah’s sons Shem, Ham, and Japheth came out of the ark. Now Ham was Canaan’s father."
+                    }
+                  ]
+                },
+                {
+                  "code": "GEN.9.19",
+                  "number": "19",
+                  "type": "x-number",
+                  "paragraph": false,
+                  "paragraph2": false,
+                  "list": false,
+                  "break": false,
+                  "table": false,
+                  "table_type": null,
+                  "rtl": false,
+                  "items": [
+                    {
+                      "type": "text",
+                      "value": "These were Noah’s three sons, and from them the whole earth was populated."
+                    }
+                  ]
+                },
+                {
+                  "code": "GEN.9.20",
+                  "number": "20",
+                  "type": "x-number",
+                  "paragraph": false,
+                  "paragraph2": false,
+                  "list": false,
+                  "break": false,
+                  "table": false,
+                  "table_type": null,
+                  "rtl": false,
+                  "items": [
+                    {
+                      "type": "text",
+                      "value": "Noah, a farmer, made a new start and planted a vineyard."
+                    }
+                  ]
+                },
+                {
+                  "code": "GEN.9.21",
+                  "number": "21",
+                  "type": "x-number",
+                  "paragraph": false,
+                  "paragraph2": false,
+                  "list": false,
+                  "break": false,
+                  "table": false,
+                  "table_type": null,
+                  "rtl": false,
+                  "items": [
+                    {
+                      "type": "text",
+                      "value": "He drank some of the wine, became drunk, and took off his clothes in his tent."
+                    }
+                  ]
+                },
+                {
+                  "code": "GEN.9.22",
+                  "number": "22",
+                  "type": "x-number",
+                  "paragraph": false,
+                  "paragraph2": false,
+                  "list": false,
+                  "break": false,
+                  "table": false,
+                  "table_type": null,
+                  "rtl": false,
+                  "items": [
+                    {
+                      "type": "text",
+                      "value": "Ham, Canaan’s father, saw his father naked and told his two brothers who were outside."
+                    }
+                  ]
+                },
+                {
+                  "code": "GEN.9.23",
+                  "number": "23",
+                  "type": "x-number",
+                  "paragraph": false,
+                  "paragraph2": false,
+                  "list": false,
+                  "break": false,
+                  "table": false,
+                  "table_type": null,
+                  "rtl": false,
+                  "items": [
+                    {
+                      "type": "text",
+                      "value": "Shem and Japheth took a robe, threw it over their shoulders, walked backward, and covered their naked father without looking at him because they turned away."
+                    }
+                  ]
+                },
+                {
+                  "code": "GEN.9.24",
+                  "number": "24",
+                  "type": "x-number",
+                  "paragraph": false,
+                  "paragraph2": false,
+                  "list": false,
+                  "break": false,
+                  "table": false,
+                  "table_type": null,
+                  "rtl": false,
+                  "items": [
+                    {
+                      "type": "text",
+                      "value": "When Noah woke up from his wine, he discovered what his youngest son had done to him."
+                    }
+                  ]
+                },
+                {
+                  "code": "GEN.9.25",
+                  "number": "25",
+                  "type": "x-number",
+                  "paragraph": false,
+                  "paragraph2": false,
+                  "list": false,
+                  "break": false,
+                  "table": false,
+                  "table_type": null,
+                  "rtl": false,
+                  "items": [
+                    {
+                      "type": "text",
+                      "value": "He said,"
+                    }
+                  ]
+                },
+                {
+                  "code": "GEN.9.25",
+                  "number": "25",
+                  "type": "x-no-number",
+                  "paragraph": false,
+                  "paragraph2": false,
+                  "list": false,
+                  "break": true,
+                  "table": false,
+                  "table_type": null,
+                  "rtl": false,
+                  "items": [
+                    {
+                      "type": "text",
+                      "value": "“Cursed be Canaan:"
+                    }
+                  ]
+                },
+                {
+                  "code": "GEN.9.25",
+                  "number": "25",
+                  "type": "x-no-number",
+                  "paragraph": true,
+                  "paragraph2": false,
+                  "list": false,
+                  "break": false,
+                  "table": false,
+                  "table_type": null,
+                  "rtl": false,
+                  "items": [
+                    {
+                      "type": "text",
+                      "value": "the lowest servant"
+                    }
+                  ]
+                },
+                {
+                  "code": "GEN.9.25",
+                  "number": "25",
+                  "type": "x-no-number",
+                  "paragraph": true,
+                  "paragraph2": false,
+                  "list": false,
+                  "break": false,
+                  "table": false,
+                  "table_type": null,
+                  "rtl": false,
+                  "items": [
+                    {
+                      "type": "text",
+                      "value": "he will be for his brothers.”"
+                    }
+                  ]
+                },
+                {
+                  "code": "GEN.9.26",
+                  "number": "26",
+                  "type": "x-number",
+                  "paragraph": false,
+                  "paragraph2": false,
+                  "list": false,
+                  "break": true,
+                  "table": false,
+                  "table_type": null,
+                  "rtl": false,
+                  "items": [
+                    {
+                      "type": "text",
+                      "value": "He also said,"
+                    }
+                  ]
+                },
+                {
+                  "code": "GEN.9.26",
+                  "number": "26",
+                  "type": "x-no-number",
+                  "paragraph": false,
+                  "paragraph2": false,
+                  "list": false,
+                  "break": true,
+                  "table": false,
+                  "table_type": null,
+                  "rtl": false,
+                  "items": [
+                    {
+                      "type": "text",
+                      "value": "“Bless the"
+                    },
+                    {
+                      "type": "text",
+                      "value": "LORD"
+                    },
+                    {
+                      "type": "text",
+                      "value": ","
+                    }
+                  ]
+                },
+                {
+                  "code": "GEN.9.26",
+                  "number": "26",
+                  "type": "x-no-number",
+                  "paragraph": true,
+                  "paragraph2": false,
+                  "list": false,
+                  "break": false,
+                  "table": false,
+                  "table_type": null,
+                  "rtl": false,
+                  "items": [
+                    {
+                      "type": "text",
+                      "value": "the God of Shem;"
+                    }
+                  ]
+                },
+                {
+                  "code": "GEN.9.26",
+                  "number": "26",
+                  "type": "x-no-number",
+                  "paragraph": false,
+                  "paragraph2": false,
+                  "list": false,
+                  "break": true,
+                  "table": false,
+                  "table_type": null,
+                  "rtl": false,
+                  "items": [
+                    {
+                      "type": "text",
+                      "value": "Canaan will be his servant."
+                    }
+                  ]
+                },
+                {
+                  "code": "GEN.9.27",
+                  "number": "27",
+                  "type": "x-number",
+                  "paragraph": false,
+                  "paragraph2": false,
+                  "list": false,
+                  "break": true,
+                  "table": false,
+                  "table_type": null,
+                  "rtl": false,
+                  "items": [
+                    {
+                      "type": "text",
+                      "value": "May God give space"
+                    },
+                    {
+                      "type": "note",
+                      "number": 1,
+                      "value": "<b>9.27 </b>Heb sounds like <i>Japheth.</i>"
+                    },
+                    {
+                      "type": "text",
+                      "value": "to Japheth;"
+                    }
+                  ]
+                },
+                {
+                  "code": "GEN.9.27",
+                  "number": "27",
+                  "type": "x-no-number",
+                  "paragraph": true,
+                  "paragraph2": false,
+                  "list": false,
+                  "break": false,
+                  "table": false,
+                  "table_type": null,
+                  "rtl": false,
+                  "items": [
+                    {
+                      "type": "text",
+                      "value": "he will live in Shem’s tents,"
+                    }
+                  ]
+                },
+                {
+                  "code": "GEN.9.27",
+                  "number": "27",
+                  "type": "x-no-number",
+                  "paragraph": true,
+                  "paragraph2": false,
+                  "list": false,
+                  "break": false,
+                  "table": false,
+                  "table_type": null,
+                  "rtl": false,
+                  "items": [
+                    {
+                      "type": "text",
+                      "value": "and Canaan will be his servant.”"
+                    }
+                  ]
+                },
+                {
+                  "code": "GEN.9.28",
+                  "number": "28",
+                  "type": "x-number",
+                  "paragraph": true,
+                  "paragraph2": false,
+                  "list": false,
+                  "break": false,
+                  "table": false,
+                  "table_type": null,
+                  "rtl": false,
+                  "items": [
+                    {
+                      "type": "text",
+                      "value": "After the flood, Noah lived 350 years."
+                    }
+                  ]
+                },
+                {
+                  "code": "GEN.9.29",
+                  "number": "29",
+                  "type": "x-number",
+                  "paragraph": false,
+                  "paragraph2": false,
+                  "list": false,
+                  "break": false,
+                  "table": false,
+                  "table_type": null,
+                  "rtl": false,
+                  "items": [
+                    {
+                      "type": "text",
+                      "value": "In all, Noah lived 950 years; then he died."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  }
+]

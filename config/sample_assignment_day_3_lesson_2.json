@@ -1,0 +1,263 @@
+[
+  {
+    "id": 215,
+    "type": "bible-segment",
+    "title": "",
+    "audio": "https://beadisciple-guest.s3.us-east-1.amazonaws.com/DFT%20I%20Session%202%20Audio/Scripture%20clips/DFT%20I%20S2D3%20Gen%2011_1-9.mp3",
+    "bible_segment": {
+      "code": null,
+      "chapters": [
+        {
+          "title": "Genesis 11",
+          "code": "GEN.11",
+          "audio": "https://beadisciple-dev.s3.amazonaws.com/study_assignment_content_1698178930_222368826.mp3?AWSAccessKeyId=AKIATTNZPDIH3OJULPFB&Expires=1767669993&Signature=vgQUMShIkRtSzqHRu1qyXslmUCk%3D",
+          "number": "11",
+          "verses": [
+            {
+              "scope": {
+                "start": "1",
+                "end": "9"
+              },
+              "title": "Origin of languages and cultures",
+              "title_type": "text",
+              "label": null,
+              "note": null,
+              "paragraph": false,
+              "verses": [
+                {
+                  "code": "GEN.11.1",
+                  "number": "1",
+                  "type": "x-number",
+                  "paragraph": true,
+                  "paragraph2": false,
+                  "list": false,
+                  "break": false,
+                  "table": false,
+                  "table_type": null,
+                  "rtl": false,
+                  "items": [
+                    {
+                      "type": "text",
+                      "value": "All people"
+                    },
+                    {
+                      "type": "note",
+                      "number": 1,
+                      "value": "<b>11.1 </b>Heb lacks <i>people.</i>"
+                    },
+                    {
+                      "type": "text",
+                      "value": "on the earth had one language and the same words."
+                    }
+                  ]
+                },
+                {
+                  "code": "GEN.11.2",
+                  "number": "2",
+                  "type": "x-number",
+                  "paragraph": false,
+                  "paragraph2": false,
+                  "list": false,
+                  "break": false,
+                  "table": false,
+                  "table_type": null,
+                  "rtl": false,
+                  "items": [
+                    {
+                      "type": "text",
+                      "value": "When they traveled east,"
+                    },
+                    {
+                      "type": "note",
+                      "number": 1,
+                      "value": "<b>11.2 </b>Or <i>from the east</i>"
+                    },
+                    {
+                      "type": "text",
+                      "value": "they found a valley in the land of Shinar and settled there."
+                    }
+                  ]
+                },
+                {
+                  "code": "GEN.11.3",
+                  "number": "3",
+                  "type": "x-number",
+                  "paragraph": false,
+                  "paragraph2": false,
+                  "list": false,
+                  "break": false,
+                  "table": false,
+                  "table_type": null,
+                  "rtl": false,
+                  "items": [
+                    {
+                      "type": "text",
+                      "value": "They said to each other, “Come, let’s make bricks and bake them hard.” They used bricks for stones and asphalt for mortar."
+                    }
+                  ]
+                },
+                {
+                  "code": "GEN.11.4",
+                  "number": "4",
+                  "type": "x-number",
+                  "paragraph": false,
+                  "paragraph2": false,
+                  "list": false,
+                  "break": false,
+                  "table": false,
+                  "table_type": null,
+                  "rtl": false,
+                  "items": [
+                    {
+                      "type": "text",
+                      "value": "They said, “Come, let’s build for ourselves a city and a tower with its top in the sky, and let’s make a name for ourselves so that we won’t be dispersed over all the earth.”"
+                    }
+                  ]
+                },
+                {
+                  "code": "GEN.11.5",
+                  "number": "5",
+                  "type": "x-number",
+                  "paragraph": true,
+                  "paragraph2": false,
+                  "list": false,
+                  "break": false,
+                  "table": false,
+                  "table_type": null,
+                  "rtl": false,
+                  "items": [
+                    {
+                      "type": "text",
+                      "value": "Then the"
+                    },
+                    {
+                      "type": "text",
+                      "value": "LORD"
+                    },
+                    {
+                      "type": "text",
+                      "value": "came down to see the city and the tower that the humans built."
+                    }
+                  ]
+                },
+                {
+                  "code": "GEN.11.6",
+                  "number": "6",
+                  "type": "x-number",
+                  "paragraph": false,
+                  "paragraph2": false,
+                  "list": false,
+                  "break": false,
+                  "table": false,
+                  "table_type": null,
+                  "rtl": false,
+                  "items": [
+                    {
+                      "type": "text",
+                      "value": "And the"
+                    },
+                    {
+                      "type": "text",
+                      "value": "LORD"
+                    },
+                    {
+                      "type": "text",
+                      "value": "said, “There is now one people and they all have one language. This is what they have begun to do, and now all that they plan to do will be possible for them."
+                    }
+                  ]
+                },
+                {
+                  "code": "GEN.11.7",
+                  "number": "7",
+                  "type": "x-number",
+                  "paragraph": false,
+                  "paragraph2": false,
+                  "list": false,
+                  "break": false,
+                  "table": false,
+                  "table_type": null,
+                  "rtl": false,
+                  "items": [
+                    {
+                      "type": "text",
+                      "value": "Come, let’s go down and mix up their language there so they won’t understand each other’s language.”"
+                    }
+                  ]
+                },
+                {
+                  "code": "GEN.11.8",
+                  "number": "8",
+                  "type": "x-number",
+                  "paragraph": false,
+                  "paragraph2": false,
+                  "list": false,
+                  "break": false,
+                  "table": false,
+                  "table_type": null,
+                  "rtl": false,
+                  "items": [
+                    {
+                      "type": "text",
+                      "value": "Then the"
+                    },
+                    {
+                      "type": "text",
+                      "value": "LORD"
+                    },
+                    {
+                      "type": "text",
+                      "value": "dispersed them from there over all of the earth, and they stopped building the city."
+                    }
+                  ]
+                },
+                {
+                  "code": "GEN.11.9",
+                  "number": "9",
+                  "type": "x-number",
+                  "paragraph": false,
+                  "paragraph2": false,
+                  "list": false,
+                  "break": false,
+                  "table": false,
+                  "table_type": null,
+                  "rtl": false,
+                  "items": [
+                    {
+                      "type": "text",
+                      "value": "Therefore, it is named Babel, because there the"
+                    },
+                    {
+                      "type": "text",
+                      "value": "LORD"
+                    },
+                    {
+                      "type": "text",
+                      "value": "mixed up"
+                    },
+                    {
+                      "type": "note",
+                      "number": 1,
+                      "value": "<b>11.9 </b>Heb <i>balal</i>, wordplay on Babel"
+                    },
+                    {
+                      "type": "text",
+                      "value": "the language of all the earth; and from there the"
+                    },
+                    {
+                      "type": "text",
+                      "value": "LORD"
+                    },
+                    {
+                      "type": "text",
+                      "value": "dispersed them over all the earth."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,831 @@
+[
+  {
+    "id": 3354,
+    "type": "bible-segment",
+    "title": "",
+    "audio": "https://beadisciple-guest.s3.us-east-1.amazonaws.com/DFT%20I%20Session%202%20Audio/Scripture%20clips/DFT%20I%20S2D5%202Sam%2011_1-12_7.mp3",
+    "bible_segment": {
+      "code": null,
+      "chapters": [
+        {
+          "title": "2 Samuel 11",
+          "code": "2SA.11",
+          "audio": "https://beadisciple-dev.s3.amazonaws.com/bible-audio/2-Samuel/2-Samuel-11.mp3?AWSAccessKeyId=AKIATTNZPDIH3OJULPFB&Expires=1767670247&Signature=%2FA4DW%2FweGDZL4H0pPsMCXrO5eaE%3D",
+          "number": "11",
+          "verses": [
+            {
+              "scope": {
+                "start": "1",
+                "end": "27"
+              },
+              "title": "David and Bathsheba",
+              "title_type": "text",
+              "label": null,
+              "note": null,
+              "paragraph": false,
+              "verses": [
+                {
+                  "code": "2SA.11.1",
+                  "number": "1",
+                  "type": "x-number",
+                  "paragraph": true,
+                  "paragraph2": false,
+                  "list": false,
+                  "break": false,
+                  "table": false,
+                  "table_type": null,
+                  "rtl": false,
+                  "items": [
+                    {
+                      "type": "text",
+                      "value": "In the spring,"
+                    },
+                    {
+                      "type": "note",
+                      "number": 1,
+                      "value": "<b>11.1 </b>Or <i>At the turn of the year</i>"
+                    },
+                    {
+                      "type": "text",
+                      "value": "when kings"
+                    },
+                    {
+                      "type": "note",
+                      "number": 2,
+                      "value": "<b>11.1 </b>LXX, Tg, Vulg; MT <i>messengers</i>"
+                    },
+                    {
+                      "type": "text",
+                      "value": "go off to war, David sent Joab, along with his servants and all the Israelites, and they destroyed the Ammonites, attacking the city of Rabbah. But David remained in Jerusalem."
+                    }
+                  ]
+                },
+                {
+                  "code": "2SA.11.2",
+                  "number": "2",
+                  "type": "x-number",
+                  "paragraph": true,
+                  "paragraph2": false,
+                  "list": false,
+                  "break": false,
+                  "table": false,
+                  "table_type": null,
+                  "rtl": false,
+                  "items": [
+                    {
+                      "type": "text",
+                      "value": "One evening, David got up from his couch and was pacing back and forth on the roof of the palace. From the roof he saw a woman bathing; the woman was very beautiful."
+                    }
+                  ]
+                },
+                {
+                  "code": "2SA.11.3",
+                  "number": "3",
+                  "type": "x-number",
+                  "paragraph": false,
+                  "paragraph2": false,
+                  "list": false,
+                  "break": false,
+                  "table": false,
+                  "table_type": null,
+                  "rtl": false,
+                  "items": [
+                    {
+                      "type": "text",
+                      "value": "David sent someone and inquired about the woman. The report came back: “Isn’t this Eliam’s daughter Bathsheba, the wife of Uriah the Hittite?”"
+                    }
+                  ]
+                },
+                {
+                  "code": "2SA.11.4",
+                  "number": "4",
+                  "type": "x-number",
+                  "paragraph": false,
+                  "paragraph2": false,
+                  "list": false,
+                  "break": false,
+                  "table": false,
+                  "table_type": null,
+                  "rtl": false,
+                  "items": [
+                    {
+                      "type": "text",
+                      "value": "So David sent messengers to take her. When she came to him, he had sex with her. (Now she had been purifying herself after her monthly period.) Then she returned home."
+                    }
+                  ]
+                },
+                {
+                  "code": "2SA.11.5",
+                  "number": "5",
+                  "type": "x-number",
+                  "paragraph": false,
+                  "paragraph2": false,
+                  "list": false,
+                  "break": false,
+                  "table": false,
+                  "table_type": null,
+                  "rtl": false,
+                  "items": [
+                    {
+                      "type": "text",
+                      "value": "The woman conceived and sent word to David."
+                    }
+                  ]
+                },
+                {
+                  "code": "2SA.11.5",
+                  "number": "5",
+                  "type": "x-no-number",
+                  "paragraph": true,
+                  "paragraph2": false,
+                  "list": false,
+                  "break": false,
+                  "table": false,
+                  "table_type": null,
+                  "rtl": false,
+                  "items": [
+                    {
+                      "type": "text",
+                      "value": "“I’m pregnant,” she said."
+                    }
+                  ]
+                },
+                {
+                  "code": "2SA.11.6",
+                  "number": "6",
+                  "type": "x-number",
+                  "paragraph": true,
+                  "paragraph2": false,
+                  "list": false,
+                  "break": false,
+                  "table": false,
+                  "table_type": null,
+                  "rtl": false,
+                  "items": [
+                    {
+                      "type": "text",
+                      "value": "Then David sent a message to Joab: “Send me Uriah the Hittite.” So Joab sent Uriah to David."
+                    }
+                  ]
+                },
+                {
+                  "code": "2SA.11.7",
+                  "number": "7",
+                  "type": "x-number",
+                  "paragraph": false,
+                  "paragraph2": false,
+                  "list": false,
+                  "break": false,
+                  "table": false,
+                  "table_type": null,
+                  "rtl": false,
+                  "items": [
+                    {
+                      "type": "text",
+                      "value": "When Uriah came to him, David asked about the welfare of Joab and the army and how the battle was going."
+                    }
+                  ]
+                },
+                {
+                  "code": "2SA.11.8",
+                  "number": "8",
+                  "type": "x-number",
+                  "paragraph": false,
+                  "paragraph2": false,
+                  "list": false,
+                  "break": false,
+                  "table": false,
+                  "table_type": null,
+                  "rtl": false,
+                  "items": [
+                    {
+                      "type": "text",
+                      "value": "Then David told Uriah, “Go down to your house and wash your feet.”"
+                    }
+                  ]
+                },
+                {
+                  "code": "2SA.11.8",
+                  "number": "8",
+                  "type": "x-no-number",
+                  "paragraph": true,
+                  "paragraph2": false,
+                  "list": false,
+                  "break": false,
+                  "table": false,
+                  "table_type": null,
+                  "rtl": false,
+                  "items": [
+                    {
+                      "type": "text",
+                      "value": "Uriah left the palace, and a gift from the king was sent after him."
+                    }
+                  ]
+                },
+                {
+                  "code": "2SA.11.9",
+                  "number": "9",
+                  "type": "x-number",
+                  "paragraph": false,
+                  "paragraph2": false,
+                  "list": false,
+                  "break": false,
+                  "table": false,
+                  "table_type": null,
+                  "rtl": false,
+                  "items": [
+                    {
+                      "type": "text",
+                      "value": "However, Uriah slept at the palace entrance with all his master’s servants. He didn’t go down to his own house."
+                    }
+                  ]
+                },
+                {
+                  "code": "2SA.11.10",
+                  "number": "10",
+                  "type": "x-number",
+                  "paragraph": false,
+                  "paragraph2": false,
+                  "list": false,
+                  "break": false,
+                  "table": false,
+                  "table_type": null,
+                  "rtl": false,
+                  "items": [
+                    {
+                      "type": "text",
+                      "value": "David was told, “Uriah didn’t go down to his own house,” so David asked Uriah, “Haven’t you just returned from a journey? Why didn’t you go home?”"
+                    }
+                  ]
+                },
+                {
+                  "code": "2SA.11.11",
+                  "number": "11",
+                  "type": "x-number",
+                  "paragraph": true,
+                  "paragraph2": false,
+                  "list": false,
+                  "break": false,
+                  "table": false,
+                  "table_type": null,
+                  "rtl": false,
+                  "items": [
+                    {
+                      "type": "text",
+                      "value": "“The chest and Israel and Judah are all living in tents,” Uriah told David. “And my master Joab and my master’s troops are camping in the open field. How"
+                    },
+                    {
+                      "type": "note",
+                      "number": 1,
+                      "value": "<b>11.11 </b>LXX<sup>L</sup>; MT lacks <i>How.</i>"
+                    },
+                    {
+                      "type": "text",
+                      "value": "could I go home and eat, drink, and have sex with my wife? I swear on your very life,"
+                    },
+                    {
+                      "type": "note",
+                      "number": 2,
+                      "value": "<b>11.11 </b>Or <i>I swear on your life and your soul’s life; </i>cf LXX"
+                    },
+                    {
+                      "type": "text",
+                      "value": "I will not do that!”"
+                    }
+                  ]
+                },
+                {
+                  "code": "2SA.11.12",
+                  "number": "12",
+                  "type": "x-number",
+                  "paragraph": true,
+                  "paragraph2": false,
+                  "list": false,
+                  "break": false,
+                  "table": false,
+                  "table_type": null,
+                  "rtl": false,
+                  "items": [
+                    {
+                      "type": "text",
+                      "value": "Then David told Uriah, “Stay here one more day. Tomorrow I’ll send you back.” So Uriah stayed in Jerusalem that day. The next day"
+                    }
+                  ]
+                },
+                {
+                  "code": "2SA.11.13",
+                  "number": "13",
+                  "type": "x-number",
+                  "paragraph": false,
+                  "paragraph2": false,
+                  "list": false,
+                  "break": false,
+                  "table": false,
+                  "table_type": null,
+                  "rtl": false,
+                  "items": [
+                    {
+                      "type": "text",
+                      "value": "David called for him, and he ate and drank, and David got him drunk. In the evening Uriah went out to sleep in the same place, alongside his master’s servants, but he did not go down to his own home."
+                    }
+                  ]
+                },
+                {
+                  "code": "2SA.11.14",
+                  "number": "14",
+                  "type": "x-number",
+                  "paragraph": true,
+                  "paragraph2": false,
+                  "list": false,
+                  "break": false,
+                  "table": false,
+                  "table_type": null,
+                  "rtl": false,
+                  "items": [
+                    {
+                      "type": "text",
+                      "value": "The next morning David wrote a letter to Joab and sent it with Uriah."
+                    }
+                  ]
+                },
+                {
+                  "code": "2SA.11.15",
+                  "number": "15",
+                  "type": "x-number",
+                  "paragraph": false,
+                  "paragraph2": false,
+                  "list": false,
+                  "break": false,
+                  "table": false,
+                  "table_type": null,
+                  "rtl": false,
+                  "items": [
+                    {
+                      "type": "text",
+                      "value": "He wrote in the letter, “Place Uriah at the front of the fiercest battle, and then pull back from him so that he will be struck down and die.”"
+                    }
+                  ]
+                },
+                {
+                  "code": "2SA.11.16",
+                  "number": "16",
+                  "type": "x-number",
+                  "paragraph": true,
+                  "paragraph2": false,
+                  "list": false,
+                  "break": false,
+                  "table": false,
+                  "table_type": null,
+                  "rtl": false,
+                  "items": [
+                    {
+                      "type": "text",
+                      "value": "So as Joab was attacking the city, he put Uriah in the place where he knew there were strong warriors."
+                    }
+                  ]
+                },
+                {
+                  "code": "2SA.11.17",
+                  "number": "17",
+                  "type": "x-number",
+                  "paragraph": false,
+                  "paragraph2": false,
+                  "list": false,
+                  "break": false,
+                  "table": false,
+                  "table_type": null,
+                  "rtl": false,
+                  "items": [
+                    {
+                      "type": "text",
+                      "value": "When the city’s soldiers came out and attacked Joab, some of the people from David’s army fell. Uriah the Hittite was also killed."
+                    }
+                  ]
+                },
+                {
+                  "code": "2SA.11.18",
+                  "number": "18",
+                  "type": "x-number",
+                  "paragraph": false,
+                  "paragraph2": false,
+                  "list": false,
+                  "break": false,
+                  "table": false,
+                  "table_type": null,
+                  "rtl": false,
+                  "items": [
+                    {
+                      "type": "text",
+                      "value": "Joab sent a complete report of the battle to David."
+                    }
+                  ]
+                },
+                {
+                  "code": "2SA.11.19",
+                  "number": "19",
+                  "type": "x-number",
+                  "paragraph": true,
+                  "paragraph2": false,
+                  "list": false,
+                  "break": false,
+                  "table": false,
+                  "table_type": null,
+                  "rtl": false,
+                  "items": [
+                    {
+                      "type": "text",
+                      "value": "“When you have finished reporting all the news of the battle to the king,” Joab instructed the messenger,"
+                    }
+                  ]
+                },
+                {
+                  "code": "2SA.11.20",
+                  "number": "20",
+                  "type": "x-number",
+                  "paragraph": false,
+                  "paragraph2": false,
+                  "list": false,
+                  "break": false,
+                  "table": false,
+                  "table_type": null,
+                  "rtl": false,
+                  "items": [
+                    {
+                      "type": "text",
+                      "value": "“if the king gets angry and asks you, ‘Why did you go so close to the city to fight? didn’t you know they would shoot from the wall?"
+                    }
+                  ]
+                },
+                {
+                  "code": "2SA.11.21",
+                  "number": "21",
+                  "type": "x-number",
+                  "paragraph": false,
+                  "paragraph2": false,
+                  "list": false,
+                  "break": false,
+                  "table": false,
+                  "table_type": null,
+                  "rtl": false,
+                  "items": [
+                    {
+                      "type": "text",
+                      "value": "Who killed Jerubbaal’s son Abimelech?"
+                    },
+                    {
+                      "type": "note",
+                      "number": 1,
+                      "value": "<b>11.21 </b>LXX, Syr, Judg 7:1; MT <i>Jerub-besheth</i>"
+                    },
+                    {
+                      "type": "text",
+                      "value": "didn’t a woman throw an upper millstone on top of him from the wall so that he died in Thebez? Why did you go so close to the wall?’ then say: ‘Your servant Uriah the Hittite is dead too.’”"
+                    }
+                  ]
+                },
+                {
+                  "code": "2SA.11.22",
+                  "number": "22",
+                  "type": "x-number",
+                  "paragraph": true,
+                  "paragraph2": false,
+                  "list": false,
+                  "break": false,
+                  "table": false,
+                  "table_type": null,
+                  "rtl": false,
+                  "items": [
+                    {
+                      "type": "text",
+                      "value": "So the messenger set off, and when he arrived he reported to David everything Joab sent him to say."
+                    }
+                  ]
+                },
+                {
+                  "code": "2SA.11.23",
+                  "number": "23",
+                  "type": "x-number",
+                  "paragraph": true,
+                  "paragraph2": false,
+                  "list": false,
+                  "break": false,
+                  "table": false,
+                  "table_type": null,
+                  "rtl": false,
+                  "items": [
+                    {
+                      "type": "text",
+                      "value": "“The men overpowered us,” the messenger told David. “They came out against us in the open field, but we fought against them"
+                    },
+                    {
+                      "type": "note",
+                      "number": 1,
+                      "value": "<b>11.23 </b>Or <i>we were upon them</i>"
+                    },
+                    {
+                      "type": "text",
+                      "value": "up to the entrance of the city gate."
+                    }
+                  ]
+                },
+                {
+                  "code": "2SA.11.24",
+                  "number": "24",
+                  "type": "x-number",
+                  "paragraph": false,
+                  "paragraph2": false,
+                  "list": false,
+                  "break": false,
+                  "table": false,
+                  "table_type": null,
+                  "rtl": false,
+                  "items": [
+                    {
+                      "type": "text",
+                      "value": "Archers shot down on your servants from the wall. Some of the king’s servants died. And your servant Uriah the Hittite is dead too.”"
+                    }
+                  ]
+                },
+                {
+                  "code": "2SA.11.25",
+                  "number": "25",
+                  "type": "x-number",
+                  "paragraph": true,
+                  "paragraph2": false,
+                  "list": false,
+                  "break": false,
+                  "table": false,
+                  "table_type": null,
+                  "rtl": false,
+                  "items": [
+                    {
+                      "type": "text",
+                      "value": "David said to the messenger, “Say this to Joab: ‘Don’t be upset about this because the sword is that way: taking the life of this person or that person. Continue attacking the city and destroy it!’ Encourage Joab!”"
+                    }
+                  ]
+                },
+                {
+                  "code": "2SA.11.26",
+                  "number": "26",
+                  "type": "x-number",
+                  "paragraph": true,
+                  "paragraph2": false,
+                  "list": false,
+                  "break": false,
+                  "table": false,
+                  "table_type": null,
+                  "rtl": false,
+                  "items": [
+                    {
+                      "type": "text",
+                      "value": "When Uriah’s wife heard that her husband Uriah was dead, she mourned for her husband."
+                    }
+                  ]
+                },
+                {
+                  "code": "2SA.11.27",
+                  "number": "27",
+                  "type": "x-number",
+                  "paragraph": false,
+                  "paragraph2": false,
+                  "list": false,
+                  "break": false,
+                  "table": false,
+                  "table_type": null,
+                  "rtl": false,
+                  "items": [
+                    {
+                      "type": "text",
+                      "value": "After the time of mourning was over, David sent for her and brought her back to his house. She became his wife and bore him a son."
+                    }
+                  ]
+                },
+                {
+                  "code": "2SA.11.27",
+                  "number": "27",
+                  "type": "x-no-number",
+                  "paragraph": true,
+                  "paragraph2": false,
+                  "list": false,
+                  "break": false,
+                  "table": false,
+                  "table_type": null,
+                  "rtl": false,
+                  "items": [
+                    {
+                      "type": "text",
+                      "value": "But what David had done was evil in the"
+                    },
+                    {
+                      "type": "text",
+                      "value": "LORD"
+                    },
+                    {
+                      "type": "text",
+                      "value": "’s eyes."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": 3116,
+    "type": "bible-segment",
+    "title": "",
+    "bible_segment": {
+      "code": null,
+      "chapters": [
+        {
+          "title": "2 Samuel 12",
+          "code": "2SA.12",
+          "audio": "https://beadisciple-dev.s3.amazonaws.com/study_assignment_content_1698179823_544768691.mp3?AWSAccessKeyId=AKIATTNZPDIH3OJULPFB&Expires=1767670247&Signature=PaYQT2jgD5MzScmmXPXtOIi2Cgc%3D",
+          "number": "12",
+          "verses": [
+            {
+              "scope": {
+                "start": "1",
+                "end": "15"
+              },
+              "title": "Nathan pronounces God’s judgment",
+              "title_type": "text",
+              "label": null,
+              "note": null,
+              "paragraph": false,
+              "verses": [
+                {
+                  "code": "2SA.12.1",
+                  "number": "1",
+                  "type": "x-number",
+                  "paragraph": true,
+                  "paragraph2": false,
+                  "list": false,
+                  "break": false,
+                  "table": false,
+                  "table_type": null,
+                  "rtl": false,
+                  "items": [
+                    {
+                      "type": "text",
+                      "value": "So the"
+                    },
+                    {
+                      "type": "text",
+                      "value": "LORD"
+                    },
+                    {
+                      "type": "text",
+                      "value": "sent Nathan to David. When Nathan arrived he said, “There were two men in the same city, one rich, one poor."
+                    }
+                  ]
+                },
+                {
+                  "code": "2SA.12.2",
+                  "number": "2",
+                  "type": "x-number",
+                  "paragraph": false,
+                  "paragraph2": false,
+                  "list": false,
+                  "break": false,
+                  "table": false,
+                  "table_type": null,
+                  "rtl": false,
+                  "items": [
+                    {
+                      "type": "text",
+                      "value": "The rich man had a lot of sheep and cattle,"
+                    }
+                  ]
+                },
+                {
+                  "code": "2SA.12.3",
+                  "number": "3",
+                  "type": "x-number",
+                  "paragraph": false,
+                  "paragraph2": false,
+                  "list": false,
+                  "break": false,
+                  "table": false,
+                  "table_type": null,
+                  "rtl": false,
+                  "items": [
+                    {
+                      "type": "text",
+                      "value": "but the poor man had nothing—just one small ewe lamb that he had bought. He raised that lamb, and it grew up with him and his children. It would eat from his food and drink from his cup—even sleep in his arms! It was like a daughter to him."
+                    }
+                  ]
+                },
+                {
+                  "code": "2SA.12.4",
+                  "number": "4",
+                  "type": "x-number",
+                  "paragraph": true,
+                  "paragraph2": false,
+                  "list": false,
+                  "break": false,
+                  "table": false,
+                  "table_type": null,
+                  "rtl": false,
+                  "items": [
+                    {
+                      "type": "text",
+                      "value": "“Now a traveler came to visit the rich man, but he wasn’t willing to take anything from his own flock or herd to prepare for the guest who had arrived. Instead, he took the poor man’s ewe lamb and prepared it for the visitor.”"
+                    }
+                  ]
+                },
+                {
+                  "code": "2SA.12.5",
+                  "number": "5",
+                  "type": "x-number",
+                  "paragraph": true,
+                  "paragraph2": false,
+                  "list": false,
+                  "break": false,
+                  "table": false,
+                  "table_type": null,
+                  "rtl": false,
+                  "items": [
+                    {
+                      "type": "text",
+                      "value": "David got very angry at the man, and he said to Nathan, “As surely as the"
+                    },
+                    {
+                      "type": "text",
+                      "value": "LORD"
+                    },
+                    {
+                      "type": "text",
+                      "value": "lives, the one who did this is demonic!"
+                    },
+                    {
+                      "type": "note",
+                      "number": 1,
+                      "value": "<b>12.5 </b>Or <i>as good as dead</i>; MT <i>a son of death</i>"
+                    }
+                  ]
+                },
+                {
+                  "code": "2SA.12.6",
+                  "number": "6",
+                  "type": "x-number",
+                  "paragraph": false,
+                  "paragraph2": false,
+                  "list": false,
+                  "break": false,
+                  "table": false,
+                  "table_type": null,
+                  "rtl": false,
+                  "items": [
+                    {
+                      "type": "text",
+                      "value": "He must restore the ewe lamb seven times over"
+                    },
+                    {
+                      "type": "note",
+                      "number": 1,
+                      "value": "<b>12.6 </b>LXX; MT <i>fourfold </i>(cf Exod 22:1)"
+                    },
+                    {
+                      "type": "text",
+                      "value": "because he did this and because he had no compassion.”"
+                    }
+                  ]
+                },
+                {
+                  "code": "2SA.12.7",
+                  "number": "7",
+                  "type": "x-number",
+                  "paragraph": true,
+                  "paragraph2": false,
+                  "list": false,
+                  "break": false,
+                  "table": false,
+                  "table_type": null,
+                  "rtl": false,
+                  "items": [
+                    {
+                      "type": "text",
+                      "value": "“You are that man!” Nathan told David. “This is what the"
+                    },
+                    {
+                      "type": "text",
+                      "value": "LORD"
+                    },
+                    {
+                      "type": "text",
+                      "value": "God of Israel says: I anointed you king over Israel and delivered you from Saul’s power."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  }
+]

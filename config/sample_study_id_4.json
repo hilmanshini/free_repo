@@ -1,0 +1,25 @@
+{
+  "id": 4,
+  "session": "2",
+  "title": "Sin | The Rebel People",
+  "concluded": false,
+  "theme_verse_title": "Theme Verse",
+  "theme_verse": null,
+  "text_verse": "<p>“Because I know my wrongdoings, my sin is always right in front of me. I’ve sinned against you—you alone”</p>  <p>(Psalm 51:3-4).</p>",
+  "orientation": null,
+  "mark_title": "Mark of Discipleship",
+  "mark": "<p style=\"--invalid:0in;--invalid:normal\"><b><span style=\"--invalid:12.0pt\">Disciples acknowledge their rebellion, accept responsibility for their sin, and repent.</span></b></p><p></p>",
+  "condition": null,
+  "condition_audio": null,
+  "group_topic_title": "Our Human Condition & Group Discussion",
+  "group_discussion": {
+    "id": 2100,
+    "topic": "<p style=\"--invalid:0in;--invalid:normal\"><b><span style=\"--invalid:12.0pt;mso-bidi---invalid:Calibri;mso-bidi-theme-font:minor-latin; --invalid:#70AD47;mso-theme--invalid:accent6\"></span></b></p>  <p style=\"--invalid:0in;--invalid:normal\"><span style=\"--invalid:12.0pt\">Because  we have the capacity to make choices, we see ourselves as  self-sufficient. We become self-centered. And because we want no limits  placed on us, we rebel against our Creator in our attempt to take  control. Yet we know that there is turmoil in the world and in  ourselves, but we don’t know why.</span></p><p style=\"--invalid:0in;--invalid:normal\"><span style=\"--invalid:12.0pt\"><br></span></p><p style=\"--invalid:0in;--invalid:normal\"><span style=\"--invalid:12.0pt\">Please  respond to the following question in the space provided. Return to this  discussion thread often to read others’ responses.</span></p><p style=\"--invalid:0in;--invalid:normal\"><span style=\"--invalid:12.0pt\"><br></span></p><p style=\"--invalid:0in;--invalid:normal\"><span style=\"--invalid:12.0pt\">Which part or parts of Our Human Condition do you relate to the easiest and why?</span></p><p></p>",
+    "audio": "https://beadisciple-dev.s3.amazonaws.com/study_session_group_topic_1694525091_582563930.mp3?AWSAccessKeyId=AKIATTNZPDIH3OJULPFB&Expires=1767084540&Signature=XdcSge0ZzU%2B0OwbvsJr%2B1VXV4RQ%3D"
+  },
+  "is_conclude_enable": false,
+  "checkpoint": {
+    "completed_assignment": 0,
+    "total_assignment": 5
+  }
+}

@@ -1,0 +1,818 @@
+[
+  {
+    "id": 3355,
+    "type": "bible-segment",
+    "title": "",
+    "audio": "https://beadisciple-guest.s3.us-east-1.amazonaws.com/DFT%20I%20Session%202%20Audio/Scripture%20clips/Psalms-051.mp3",
+    "bible_segment": {
+      "code": null,
+      "chapters": [
+        {
+          "title": "Psalm 51",
+          "code": "PSA.51",
+          "audio": "https://beadisciple-dev.s3.amazonaws.com/bible-audio/Psalms/Psalms-051.mp3?AWSAccessKeyId=AKIATTNZPDIH3OJULPFB&Expires=1767675663&Signature=EGqFK2OMbZ3HgGx8Jg65KWqyPdI%3D",
+          "number": "51",
+          "verses": [
+            {
+              "scope": {
+                "start": "1",
+                "end": "19"
+              },
+              "title": null,
+              "title_type": "text",
+              "label": null,
+              "note": null,
+              "paragraph": false,
+              "verses": [
+                {
+                  "code": "PSA.51.1",
+                  "number": "1",
+                  "type": "x-no-number",
+                  "paragraph": false,
+                  "paragraph2": false,
+                  "list": false,
+                  "break": false,
+                  "table": false,
+                  "table_type": null,
+                  "rtl": false,
+                  "items": [
+                    {
+                      "type": "text-italic",
+                      "value": "For the music leader. A psalm of David, when the prophet Nathan came to him just after he had been with Bathsheba."
+                    }
+                  ]
+                },
+                {
+                  "code": "PSA.51.1",
+                  "number": "1",
+                  "type": "x-number",
+                  "paragraph": false,
+                  "paragraph2": false,
+                  "list": false,
+                  "break": true,
+                  "table": false,
+                  "table_type": null,
+                  "rtl": false,
+                  "items": [
+                    {
+                      "type": "text",
+                      "value": "Have mercy on me, God, according to your faithful love!"
+                    }
+                  ]
+                },
+                {
+                  "code": "PSA.51.1",
+                  "number": "1",
+                  "type": "x-no-number",
+                  "paragraph": true,
+                  "paragraph2": false,
+                  "list": false,
+                  "break": false,
+                  "table": false,
+                  "table_type": null,
+                  "rtl": false,
+                  "items": [
+                    {
+                      "type": "text",
+                      "value": "Wipe away my wrongdoings according to your great compassion!"
+                    }
+                  ]
+                },
+                {
+                  "code": "PSA.51.2",
+                  "number": "2",
+                  "type": "x-number",
+                  "paragraph": false,
+                  "paragraph2": false,
+                  "list": false,
+                  "break": true,
+                  "table": false,
+                  "table_type": null,
+                  "rtl": false,
+                  "items": [
+                    {
+                      "type": "text",
+                      "value": "Wash me completely clean of my guilt;"
+                    }
+                  ]
+                },
+                {
+                  "code": "PSA.51.2",
+                  "number": "2",
+                  "type": "x-no-number",
+                  "paragraph": true,
+                  "paragraph2": false,
+                  "list": false,
+                  "break": false,
+                  "table": false,
+                  "table_type": null,
+                  "rtl": false,
+                  "items": [
+                    {
+                      "type": "text",
+                      "value": "purify me from my sin!"
+                    }
+                  ]
+                },
+                {
+                  "code": "PSA.51.3",
+                  "number": "3",
+                  "type": "x-number",
+                  "paragraph": false,
+                  "paragraph2": false,
+                  "list": false,
+                  "break": true,
+                  "table": false,
+                  "table_type": null,
+                  "rtl": false,
+                  "items": [
+                    {
+                      "type": "text",
+                      "value": "Because I know my wrongdoings,"
+                    }
+                  ]
+                },
+                {
+                  "code": "PSA.51.3",
+                  "number": "3",
+                  "type": "x-no-number",
+                  "paragraph": true,
+                  "paragraph2": false,
+                  "list": false,
+                  "break": false,
+                  "table": false,
+                  "table_type": null,
+                  "rtl": false,
+                  "items": [
+                    {
+                      "type": "text",
+                      "value": "my sin is always right in front of me."
+                    }
+                  ]
+                },
+                {
+                  "code": "PSA.51.4",
+                  "number": "4",
+                  "type": "x-number",
+                  "paragraph": false,
+                  "paragraph2": false,
+                  "list": false,
+                  "break": true,
+                  "table": false,
+                  "table_type": null,
+                  "rtl": false,
+                  "items": [
+                    {
+                      "type": "text",
+                      "value": "I’ve sinned against you—you alone."
+                    }
+                  ]
+                },
+                {
+                  "code": "PSA.51.4",
+                  "number": "4",
+                  "type": "x-no-number",
+                  "paragraph": true,
+                  "paragraph2": false,
+                  "list": false,
+                  "break": false,
+                  "table": false,
+                  "table_type": null,
+                  "rtl": false,
+                  "items": [
+                    {
+                      "type": "text",
+                      "value": "I’ve committed evil in your sight."
+                    }
+                  ]
+                },
+                {
+                  "code": "PSA.51.4",
+                  "number": "4",
+                  "type": "x-no-number",
+                  "paragraph": false,
+                  "paragraph2": false,
+                  "list": false,
+                  "break": true,
+                  "table": false,
+                  "table_type": null,
+                  "rtl": false,
+                  "items": [
+                    {
+                      "type": "text",
+                      "value": "That’s why you are justified when you render your verdict,"
+                    }
+                  ]
+                },
+                {
+                  "code": "PSA.51.4",
+                  "number": "4",
+                  "type": "x-no-number",
+                  "paragraph": true,
+                  "paragraph2": false,
+                  "list": false,
+                  "break": false,
+                  "table": false,
+                  "table_type": null,
+                  "rtl": false,
+                  "items": [
+                    {
+                      "type": "text",
+                      "value": "completely correct when you issue your judgment."
+                    }
+                  ]
+                },
+                {
+                  "code": "PSA.51.5",
+                  "number": "5",
+                  "type": "x-number",
+                  "paragraph": false,
+                  "paragraph2": false,
+                  "list": false,
+                  "break": true,
+                  "table": false,
+                  "table_type": null,
+                  "rtl": false,
+                  "items": [
+                    {
+                      "type": "text",
+                      "value": "Yes, I was born in guilt, in sin,"
+                    }
+                  ]
+                },
+                {
+                  "code": "PSA.51.5",
+                  "number": "5",
+                  "type": "x-no-number",
+                  "paragraph": true,
+                  "paragraph2": false,
+                  "list": false,
+                  "break": false,
+                  "table": false,
+                  "table_type": null,
+                  "rtl": false,
+                  "items": [
+                    {
+                      "type": "text",
+                      "value": "from the moment my mother conceived me."
+                    }
+                  ]
+                },
+                {
+                  "code": "PSA.51.6",
+                  "number": "6",
+                  "type": "x-number",
+                  "paragraph": false,
+                  "paragraph2": false,
+                  "list": false,
+                  "break": true,
+                  "table": false,
+                  "table_type": null,
+                  "rtl": false,
+                  "items": [
+                    {
+                      "type": "text",
+                      "value": "And yes, you want truth in the most hidden places;"
+                    }
+                  ]
+                },
+                {
+                  "code": "PSA.51.6",
+                  "number": "6",
+                  "type": "x-no-number",
+                  "paragraph": true,
+                  "paragraph2": false,
+                  "list": false,
+                  "break": false,
+                  "table": false,
+                  "table_type": null,
+                  "rtl": false,
+                  "items": [
+                    {
+                      "type": "text",
+                      "value": "you teach me wisdom in the most secret space."
+                    },
+                    {
+                      "type": "note",
+                      "number": 1,
+                      "value": "<b>51.6 </b>Heb uncertain"
+                    }
+                  ]
+                },
+                {
+                  "code": "PSA.51.7",
+                  "number": "7",
+                  "type": "x-number",
+                  "paragraph": false,
+                  "paragraph2": false,
+                  "list": false,
+                  "break": true,
+                  "table": false,
+                  "table_type": null,
+                  "rtl": false,
+                  "items": [
+                    {
+                      "type": "text",
+                      "value": "Purify me with hyssop and I will be clean;"
+                    }
+                  ]
+                },
+                {
+                  "code": "PSA.51.7",
+                  "number": "7",
+                  "type": "x-no-number",
+                  "paragraph": true,
+                  "paragraph2": false,
+                  "list": false,
+                  "break": false,
+                  "table": false,
+                  "table_type": null,
+                  "rtl": false,
+                  "items": [
+                    {
+                      "type": "text",
+                      "value": "wash me and I will be whiter than snow."
+                    }
+                  ]
+                },
+                {
+                  "code": "PSA.51.8",
+                  "number": "8",
+                  "type": "x-number",
+                  "paragraph": false,
+                  "paragraph2": false,
+                  "list": false,
+                  "break": true,
+                  "table": false,
+                  "table_type": null,
+                  "rtl": false,
+                  "items": [
+                    {
+                      "type": "text",
+                      "value": "Let me hear joy and celebration again;"
+                    }
+                  ]
+                },
+                {
+                  "code": "PSA.51.8",
+                  "number": "8",
+                  "type": "x-no-number",
+                  "paragraph": true,
+                  "paragraph2": false,
+                  "list": false,
+                  "break": false,
+                  "table": false,
+                  "table_type": null,
+                  "rtl": false,
+                  "items": [
+                    {
+                      "type": "text",
+                      "value": "let the bones you crushed rejoice once more."
+                    }
+                  ]
+                },
+                {
+                  "code": "PSA.51.9",
+                  "number": "9",
+                  "type": "x-number",
+                  "paragraph": false,
+                  "paragraph2": false,
+                  "list": false,
+                  "break": true,
+                  "table": false,
+                  "table_type": null,
+                  "rtl": false,
+                  "items": [
+                    {
+                      "type": "text",
+                      "value": "Hide your face from my sins;"
+                    }
+                  ]
+                },
+                {
+                  "code": "PSA.51.9",
+                  "number": "9",
+                  "type": "x-no-number",
+                  "paragraph": true,
+                  "paragraph2": false,
+                  "list": false,
+                  "break": false,
+                  "table": false,
+                  "table_type": null,
+                  "rtl": false,
+                  "items": [
+                    {
+                      "type": "text",
+                      "value": "wipe away all my guilty deeds!"
+                    }
+                  ]
+                },
+                {
+                  "code": "PSA.51.10",
+                  "number": "10",
+                  "type": "x-number",
+                  "paragraph": false,
+                  "paragraph2": false,
+                  "list": false,
+                  "break": true,
+                  "table": false,
+                  "table_type": null,
+                  "rtl": false,
+                  "items": [
+                    {
+                      "type": "text",
+                      "value": "Create a clean heart for me, God;"
+                    }
+                  ]
+                },
+                {
+                  "code": "PSA.51.10",
+                  "number": "10",
+                  "type": "x-no-number",
+                  "paragraph": true,
+                  "paragraph2": false,
+                  "list": false,
+                  "break": false,
+                  "table": false,
+                  "table_type": null,
+                  "rtl": false,
+                  "items": [
+                    {
+                      "type": "text",
+                      "value": "put a new, faithful spirit deep inside me!"
+                    }
+                  ]
+                },
+                {
+                  "code": "PSA.51.11",
+                  "number": "11",
+                  "type": "x-number",
+                  "paragraph": false,
+                  "paragraph2": false,
+                  "list": false,
+                  "break": true,
+                  "table": false,
+                  "table_type": null,
+                  "rtl": false,
+                  "items": [
+                    {
+                      "type": "text",
+                      "value": "Please don’t throw me out of your presence;"
+                    }
+                  ]
+                },
+                {
+                  "code": "PSA.51.11",
+                  "number": "11",
+                  "type": "x-no-number",
+                  "paragraph": true,
+                  "paragraph2": false,
+                  "list": false,
+                  "break": false,
+                  "table": false,
+                  "table_type": null,
+                  "rtl": false,
+                  "items": [
+                    {
+                      "type": "text",
+                      "value": "please don’t take your holy spirit away from me."
+                    }
+                  ]
+                },
+                {
+                  "code": "PSA.51.12",
+                  "number": "12",
+                  "type": "x-number",
+                  "paragraph": false,
+                  "paragraph2": false,
+                  "list": false,
+                  "break": true,
+                  "table": false,
+                  "table_type": null,
+                  "rtl": false,
+                  "items": [
+                    {
+                      "type": "text",
+                      "value": "Return the joy of your salvation to me"
+                    }
+                  ]
+                },
+                {
+                  "code": "PSA.51.12",
+                  "number": "12",
+                  "type": "x-no-number",
+                  "paragraph": true,
+                  "paragraph2": false,
+                  "list": false,
+                  "break": false,
+                  "table": false,
+                  "table_type": null,
+                  "rtl": false,
+                  "items": [
+                    {
+                      "type": "text",
+                      "value": "and sustain me with a willing spirit."
+                    }
+                  ]
+                },
+                {
+                  "code": "PSA.51.13",
+                  "number": "13",
+                  "type": "x-number",
+                  "paragraph": false,
+                  "paragraph2": false,
+                  "list": false,
+                  "break": true,
+                  "table": false,
+                  "table_type": null,
+                  "rtl": false,
+                  "items": [
+                    {
+                      "type": "text",
+                      "value": "Then I will teach wrongdoers your ways,"
+                    }
+                  ]
+                },
+                {
+                  "code": "PSA.51.13",
+                  "number": "13",
+                  "type": "x-no-number",
+                  "paragraph": true,
+                  "paragraph2": false,
+                  "list": false,
+                  "break": false,
+                  "table": false,
+                  "table_type": null,
+                  "rtl": false,
+                  "items": [
+                    {
+                      "type": "text",
+                      "value": "and sinners will come back to you."
+                    }
+                  ]
+                },
+                {
+                  "code": "PSA.51.14",
+                  "number": "14",
+                  "type": "x-number",
+                  "paragraph": false,
+                  "paragraph2": false,
+                  "list": false,
+                  "break": true,
+                  "table": false,
+                  "table_type": null,
+                  "rtl": false,
+                  "items": [
+                    {
+                      "type": "text",
+                      "value": "Deliver me from violence, God, God of my salvation,"
+                    }
+                  ]
+                },
+                {
+                  "code": "PSA.51.14",
+                  "number": "14",
+                  "type": "x-no-number",
+                  "paragraph": true,
+                  "paragraph2": false,
+                  "list": false,
+                  "break": false,
+                  "table": false,
+                  "table_type": null,
+                  "rtl": false,
+                  "items": [
+                    {
+                      "type": "text",
+                      "value": "so that my tongue can sing of your righteousness."
+                    }
+                  ]
+                },
+                {
+                  "code": "PSA.51.15",
+                  "number": "15",
+                  "type": "x-number",
+                  "paragraph": false,
+                  "paragraph2": false,
+                  "list": false,
+                  "break": true,
+                  "table": false,
+                  "table_type": null,
+                  "rtl": false,
+                  "items": [
+                    {
+                      "type": "text",
+                      "value": "Lord, open my lips,"
+                    }
+                  ]
+                },
+                {
+                  "code": "PSA.51.15",
+                  "number": "15",
+                  "type": "x-no-number",
+                  "paragraph": true,
+                  "paragraph2": false,
+                  "list": false,
+                  "break": false,
+                  "table": false,
+                  "table_type": null,
+                  "rtl": false,
+                  "items": [
+                    {
+                      "type": "text",
+                      "value": "and my mouth will proclaim your praise."
+                    }
+                  ]
+                },
+                {
+                  "code": "PSA.51.16",
+                  "number": "16",
+                  "type": "x-number",
+                  "paragraph": false,
+                  "paragraph2": false,
+                  "list": false,
+                  "break": true,
+                  "table": false,
+                  "table_type": null,
+                  "rtl": false,
+                  "items": [
+                    {
+                      "type": "text",
+                      "value": "You don’t want sacrifices."
+                    }
+                  ]
+                },
+                {
+                  "code": "PSA.51.16",
+                  "number": "16",
+                  "type": "x-no-number",
+                  "paragraph": true,
+                  "paragraph2": false,
+                  "list": false,
+                  "break": false,
+                  "table": false,
+                  "table_type": null,
+                  "rtl": false,
+                  "items": [
+                    {
+                      "type": "text",
+                      "value": "If I gave an entirely burned offering,"
+                    }
+                  ]
+                },
+                {
+                  "code": "PSA.51.16",
+                  "number": "16",
+                  "type": "x-no-number",
+                  "paragraph": true,
+                  "paragraph2": false,
+                  "list": false,
+                  "break": false,
+                  "table": false,
+                  "table_type": null,
+                  "rtl": false,
+                  "items": [
+                    {
+                      "type": "text",
+                      "value": "you wouldn’t be pleased."
+                    }
+                  ]
+                },
+                {
+                  "code": "PSA.51.17",
+                  "number": "17",
+                  "type": "x-number",
+                  "paragraph": false,
+                  "paragraph2": false,
+                  "list": false,
+                  "break": true,
+                  "table": false,
+                  "table_type": null,
+                  "rtl": false,
+                  "items": [
+                    {
+                      "type": "text",
+                      "value": "A broken spirit is my sacrifice, God."
+                    },
+                    {
+                      "type": "note",
+                      "number": 1,
+                      "value": "<b>51.17 </b>Correction"
+                    }
+                  ]
+                },
+                {
+                  "code": "PSA.51.17",
+                  "number": "17",
+                  "type": "x-no-number",
+                  "paragraph": true,
+                  "paragraph2": false,
+                  "list": false,
+                  "break": false,
+                  "table": false,
+                  "table_type": null,
+                  "rtl": false,
+                  "items": [
+                    {
+                      "type": "text",
+                      "value": "You won’t despise a heart, God, that is broken and crushed."
+                    }
+                  ]
+                },
+                {
+                  "code": "PSA.51.18",
+                  "number": "18",
+                  "type": "x-number",
+                  "paragraph": false,
+                  "paragraph2": false,
+                  "list": false,
+                  "break": true,
+                  "table": false,
+                  "table_type": null,
+                  "rtl": false,
+                  "items": [
+                    {
+                      "type": "text",
+                      "value": "Do good things for Zion by your favor."
+                    }
+                  ]
+                },
+                {
+                  "code": "PSA.51.18",
+                  "number": "18",
+                  "type": "x-no-number",
+                  "paragraph": true,
+                  "paragraph2": false,
+                  "list": false,
+                  "break": false,
+                  "table": false,
+                  "table_type": null,
+                  "rtl": false,
+                  "items": [
+                    {
+                      "type": "text",
+                      "value": "Rebuild Jerusalem’s walls."
+                    }
+                  ]
+                },
+                {
+                  "code": "PSA.51.19",
+                  "number": "19",
+                  "type": "x-number",
+                  "paragraph": false,
+                  "paragraph2": false,
+                  "list": false,
+                  "break": true,
+                  "table": false,
+                  "table_type": null,
+                  "rtl": false,
+                  "items": [
+                    {
+                      "type": "text",
+                      "value": "Then you will again want sacrifices of righteousness—"
+                    }
+                  ]
+                },
+                {
+                  "code": "PSA.51.19",
+                  "number": "19",
+                  "type": "x-no-number",
+                  "paragraph": true,
+                  "paragraph2": false,
+                  "list": false,
+                  "break": false,
+                  "table": false,
+                  "table_type": null,
+                  "rtl": false,
+                  "items": [
+                    {
+                      "type": "text",
+                      "value": "entirely burned offerings and complete offerings."
+                    }
+                  ]
+                },
+                {
+                  "code": "PSA.51.19",
+                  "number": "19",
+                  "type": "x-no-number",
+                  "paragraph": true,
+                  "paragraph2": false,
+                  "list": false,
+                  "break": false,
+                  "table": false,
+                  "table_type": null,
+                  "rtl": false,
+                  "items": [
+                    {
+                      "type": "text",
+                      "value": "Then bulls will again be sacrificed on your altar."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  }
+]

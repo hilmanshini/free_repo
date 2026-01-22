@@ -1,0 +1,123 @@
+{
+  "latest_progress": {
+    "session_id": 2,
+    "assignment_id": 1,
+    "is_all_session_completed": false
+  },
+  "total_data": 25,
+  "total_page": 3,
+  "current_page": 1,
+  "per_page": 10,
+  "datas": [
+    {
+      "id": 2,
+      "session": "orientation",
+      "title": "Guidance | The Biblical Word",
+      "condition_audio": null,
+      "group_topic_audio": "study_session_group_topic_1688079318_74700904.mp3",
+      "checkpoint": {
+        "completed_assignment": 0,
+        "total_assignment": 1
+      }
+    },
+    {
+      "id": 3,
+      "session": "1",
+      "title": "Creation | The Creating God",
+      "condition_audio": null,
+      "group_topic_audio": "study_session_group_topic_1694525091_337555382.mp3",
+      "checkpoint": {
+        "completed_assignment": 0,
+        "total_assignment": 5
+      }
+    },
+    {
+      "id": 4,
+      "session": "2",
+      "title": "Sin | The Rebel People",
+      "condition_audio": null,
+      "group_topic_audio": "study_session_group_topic_1694525091_582563930.mp3",
+      "checkpoint": {
+        "completed_assignment": 0,
+        "total_assignment": 5
+      }
+    },
+    {
+      "id": 5,
+      "session": "3",
+      "title": "Promise | The Called People",
+      "condition_audio": null,
+      "group_topic_audio": "study_session_group_topic_1694525091_853196513.mp3",
+      "checkpoint": {
+        "completed_assignment": 0,
+        "total_assignment": 5
+      }
+    },
+    {
+      "id": 6,
+      "session": "4",
+      "title": "Deliverance | God Hears the Cry",
+      "condition_audio": null,
+      "group_topic_audio": "study_session_group_topic_1694525091_236576253.mp3",
+      "checkpoint": {
+        "completed_assignment": 0,
+        "total_assignment": 5
+      }
+    },
+    {
+      "id": 7,
+      "session": "5",
+      "title": "Community | God Establishes Community and Gives the Law",
+      "condition_audio": null,
+      "group_topic_audio": "study_session_group_topic_1694525091_309688886.mp3",
+      "checkpoint": {
+        "completed_assignment": 0,
+        "total_assignment": 5
+      }
+    },
+    {
+      "id": 8,
+      "session": "6",
+      "title": "Atonement | When God Draws Near",
+      "condition_audio": null,
+      "group_topic_audio": "study_session_group_topic_1694525092_201498777.mp3",
+      "checkpoint": {
+        "completed_assignment": 0,
+        "total_assignment": 5
+      }
+    },
+    {
+      "id": 9,
+      "session": "7",
+      "title": "Leadership | The People Without a King",
+      "condition_audio": null,
+      "group_topic_audio": "study_session_group_topic_1694525174_724890205.mp3",
+      "checkpoint": {
+        "completed_assignment": 0,
+        "total_assignment": 5
+      }
+    },
+    {
+      "id": 10,
+      "session": "8",
+      "title": "Security |  The People With a King",
+      "condition_audio": null,
+      "group_topic_audio": "study_session_group_topic_1697042559_291173577.mp3",
+      "checkpoint": {
+        "completed_assignment": 0,
+        "total_assignment": 5
+      }
+    },
+    {
+      "id": 11,
+      "session": "9",
+      "title": "Warning | God Warns the People",
+      "condition_audio": null,
+      "group_topic_audio": "study_session_group_topic_1697553983_271991003.mp3",
+      "checkpoint": {
+        "completed_assignment": 0,
+        "total_assignment": 5
+      }
+    }
+  ]
+}

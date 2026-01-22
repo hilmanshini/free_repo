@@ -1,0 +1,31 @@
+{
+  "id": 10,
+  "study_session_id": 4,
+  "day": 4,
+  "prayer": "“Come back to me and have mercy on me; that’s only right for those who love your name” (Psalm 119:132).",
+  "video": "https://beadisciple-guest.s3.us-east-1.amazonaws.com/DFT%20%7C%20Addition/S2D4_%20Foulkrod%20Psalm%20119_132-final.mp4",
+  "personal_prayer": null,
+  "items": [
+    {
+      "id": 22,
+      "title": "Introduction to Today’s Assignment",
+      "type": "text",
+      "audio": null,
+      "completed": false
+    },
+    {
+      "id": 156,
+      "title": "Jeremiah 8:18–9:11",
+      "type": "text",
+      "audio": null,
+      "completed": false
+    },
+    {
+      "id": 157,
+      "title": "Personal Reflection Question",
+      "type": "text",
+      "audio": null,
+      "completed": false
+    }
+  ]
+}

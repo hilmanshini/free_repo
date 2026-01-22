@@ -1,0 +1,1331 @@
+[
+  {
+    "id": 223,
+    "type": "bible-segment",
+    "title": "",
+    "audio": "https://beadisciple-guest.s3.us-east-1.amazonaws.com/DFT%20I%20Session%202%20Audio/Scripture%20clips/DFT%20I%20S2D4%20Jer%208_18-9_11.mp3",
+    "bible_segment": {
+      "code": null,
+      "chapters": [
+        {
+          "title": "Jeremiah 8",
+          "code": "JER.8",
+          "audio": "https://beadisciple-dev.s3.amazonaws.com/study_assignment_content_1698179385_638141550.mp3?AWSAccessKeyId=AKIATTNZPDIH3OJULPFB&Expires=1767670122&Signature=KcjD4xl%2B%2B4Sm6I814wZB%2F4NCYJE%3D",
+          "number": "8",
+          "verses": [
+            {
+              "scope": {
+                "start": "14",
+                "end": "21"
+              },
+              "title": "A lament for God’s people",
+              "title_type": "text",
+              "label": null,
+              "note": null,
+              "paragraph": false,
+              "verses": [
+                {
+                  "code": "JER.8.18",
+                  "number": "18",
+                  "type": "x-number",
+                  "paragraph": false,
+                  "paragraph2": false,
+                  "list": false,
+                  "break": true,
+                  "table": false,
+                  "table_type": null,
+                  "rtl": false,
+                  "items": [
+                    {
+                      "type": "text",
+                      "value": "No healing,"
+                    }
+                  ]
+                },
+                {
+                  "code": "JER.8.18",
+                  "number": "18",
+                  "type": "x-no-number",
+                  "paragraph": true,
+                  "paragraph2": false,
+                  "list": false,
+                  "break": false,
+                  "table": false,
+                  "table_type": null,
+                  "rtl": false,
+                  "items": [
+                    {
+                      "type": "text",
+                      "value": "only grief;"
+                    }
+                  ]
+                },
+                {
+                  "code": "JER.8.18",
+                  "number": "18",
+                  "type": "x-no-number",
+                  "paragraph": true,
+                  "paragraph2": false,
+                  "list": false,
+                  "break": false,
+                  "table": false,
+                  "table_type": null,
+                  "rtl": false,
+                  "items": [
+                    {
+                      "type": "text",
+                      "value": "my heart is broken."
+                    },
+                    {
+                      "type": "note",
+                      "number": 1,
+                      "value": "<b>8.18 </b>Heb uncertain"
+                    }
+                  ]
+                },
+                {
+                  "code": "JER.8.19",
+                  "number": "19",
+                  "type": "x-number",
+                  "paragraph": false,
+                  "paragraph2": false,
+                  "list": false,
+                  "break": true,
+                  "table": false,
+                  "table_type": null,
+                  "rtl": false,
+                  "items": [
+                    {
+                      "type": "text",
+                      "value": "Listen to the weeping of my people"
+                    }
+                  ]
+                },
+                {
+                  "code": "JER.8.19",
+                  "number": "19",
+                  "type": "x-no-number",
+                  "paragraph": true,
+                  "paragraph2": false,
+                  "list": false,
+                  "break": false,
+                  "table": false,
+                  "table_type": null,
+                  "rtl": false,
+                  "items": [
+                    {
+                      "type": "text",
+                      "value": "all across the land:"
+                    }
+                  ]
+                },
+                {
+                  "code": "JER.8.19",
+                  "number": "19",
+                  "type": "x-no-number",
+                  "paragraph": true,
+                  "paragraph2": false,
+                  "list": false,
+                  "break": false,
+                  "table": false,
+                  "table_type": null,
+                  "rtl": false,
+                  "items": [
+                    {
+                      "type": "text",
+                      "value": "“Isn’t the"
+                    },
+                    {
+                      "type": "text",
+                      "value": "LORD"
+                    },
+                    {
+                      "type": "text",
+                      "value": "in Zion?"
+                    }
+                  ]
+                },
+                {
+                  "code": "JER.8.19",
+                  "number": "19",
+                  "type": "x-no-number",
+                  "paragraph": true,
+                  "paragraph2": false,
+                  "list": false,
+                  "break": false,
+                  "table": false,
+                  "table_type": null,
+                  "rtl": false,
+                  "items": [
+                    {
+                      "type": "text",
+                      "value": "Is her king no longer there?”"
+                    }
+                  ]
+                },
+                {
+                  "code": "JER.8.19",
+                  "number": "19",
+                  "type": "x-no-number",
+                  "paragraph": false,
+                  "paragraph2": false,
+                  "list": false,
+                  "break": true,
+                  "table": false,
+                  "table_type": null,
+                  "rtl": false,
+                  "items": [
+                    {
+                      "type": "text",
+                      "value": "Why then did they anger me with their images,"
+                    }
+                  ]
+                },
+                {
+                  "code": "JER.8.19",
+                  "number": "19",
+                  "type": "x-no-number",
+                  "paragraph": true,
+                  "paragraph2": false,
+                  "list": false,
+                  "break": false,
+                  "table": false,
+                  "table_type": null,
+                  "rtl": false,
+                  "items": [
+                    {
+                      "type": "text",
+                      "value": "with pointless foreign gods?"
+                    }
+                  ]
+                },
+                {
+                  "code": "JER.8.20",
+                  "number": "20",
+                  "type": "x-number",
+                  "paragraph": false,
+                  "paragraph2": false,
+                  "list": false,
+                  "break": true,
+                  "table": false,
+                  "table_type": null,
+                  "rtl": false,
+                  "items": [
+                    {
+                      "type": "text",
+                      "value": "“The harvest is past,"
+                    }
+                  ]
+                },
+                {
+                  "code": "JER.8.20",
+                  "number": "20",
+                  "type": "x-no-number",
+                  "paragraph": true,
+                  "paragraph2": false,
+                  "list": false,
+                  "break": false,
+                  "table": false,
+                  "table_type": null,
+                  "rtl": false,
+                  "items": [
+                    {
+                      "type": "text",
+                      "value": "the summer has ended,"
+                    }
+                  ]
+                },
+                {
+                  "code": "JER.8.20",
+                  "number": "20",
+                  "type": "x-no-number",
+                  "paragraph": true,
+                  "paragraph2": false,
+                  "list": false,
+                  "break": false,
+                  "table": false,
+                  "table_type": null,
+                  "rtl": false,
+                  "items": [
+                    {
+                      "type": "text",
+                      "value": "yet we aren’t saved.”"
+                    }
+                  ]
+                },
+                {
+                  "code": "JER.8.21",
+                  "number": "21",
+                  "type": "x-number",
+                  "paragraph": false,
+                  "paragraph2": false,
+                  "list": false,
+                  "break": true,
+                  "table": false,
+                  "table_type": null,
+                  "rtl": false,
+                  "items": [
+                    {
+                      "type": "text",
+                      "value": "Because my people are crushed,"
+                    }
+                  ]
+                },
+                {
+                  "code": "JER.8.21",
+                  "number": "21",
+                  "type": "x-no-number",
+                  "paragraph": true,
+                  "paragraph2": false,
+                  "list": false,
+                  "break": false,
+                  "table": false,
+                  "table_type": null,
+                  "rtl": false,
+                  "items": [
+                    {
+                      "type": "text",
+                      "value": "I am crushed;"
+                    }
+                  ]
+                },
+                {
+                  "code": "JER.8.21",
+                  "number": "21",
+                  "type": "x-no-number",
+                  "paragraph": true,
+                  "paragraph2": false,
+                  "list": false,
+                  "break": false,
+                  "table": false,
+                  "table_type": null,
+                  "rtl": false,
+                  "items": [
+                    {
+                      "type": "text",
+                      "value": "darkness and despair overwhelm me."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "scope": {
+                "start": "22",
+                "end": "22"
+              },
+              "title": "What to do with God’s people",
+              "title_type": "text",
+              "label": null,
+              "note": null,
+              "paragraph": false,
+              "verses": [
+                {
+                  "code": "JER.8.22",
+                  "number": "22",
+                  "type": "x-number",
+                  "paragraph": false,
+                  "paragraph2": false,
+                  "list": false,
+                  "break": true,
+                  "table": false,
+                  "table_type": null,
+                  "rtl": false,
+                  "items": [
+                    {
+                      "type": "text",
+                      "value": "Is there no balm in Gilead?"
+                    }
+                  ]
+                },
+                {
+                  "code": "JER.8.22",
+                  "number": "22",
+                  "type": "x-no-number",
+                  "paragraph": true,
+                  "paragraph2": false,
+                  "list": false,
+                  "break": false,
+                  "table": false,
+                  "table_type": null,
+                  "rtl": false,
+                  "items": [
+                    {
+                      "type": "text",
+                      "value": "Is there no physician there?"
+                    }
+                  ]
+                },
+                {
+                  "code": "JER.8.22",
+                  "number": "22",
+                  "type": "x-no-number",
+                  "paragraph": false,
+                  "paragraph2": false,
+                  "list": false,
+                  "break": true,
+                  "table": false,
+                  "table_type": null,
+                  "rtl": false,
+                  "items": [
+                    {
+                      "type": "text",
+                      "value": "Why then have my people"
+                    }
+                  ]
+                },
+                {
+                  "code": "JER.8.22",
+                  "number": "22",
+                  "type": "x-no-number",
+                  "paragraph": true,
+                  "paragraph2": false,
+                  "list": false,
+                  "break": false,
+                  "table": false,
+                  "table_type": null,
+                  "rtl": false,
+                  "items": [
+                    {
+                      "type": "text",
+                      "value": "not been restored to health?"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": 3101,
+    "type": "bible-segment",
+    "title": "",
+    "bible_segment": {
+      "code": null,
+      "chapters": [
+        {
+          "title": "Jeremiah 9",
+          "code": "JER.9",
+          "audio": "https://beadisciple-dev.s3.amazonaws.com/study_assignment_content_1698179385_156610453.mp3?AWSAccessKeyId=AKIATTNZPDIH3OJULPFB&Expires=1767670122&Signature=q3CjZfl%2FqAo4NvVACNwhybcfAbY%3D",
+          "number": "9",
+          "verses": [
+            {
+              "scope": {
+                "start": "1",
+                "end": "26"
+              },
+              "title": null,
+              "title_type": "text",
+              "label": null,
+              "note": null,
+              "paragraph": false,
+              "verses": [
+                {
+                  "code": "JER.9.1",
+                  "number": "1",
+                  "type": "x-number",
+                  "paragraph": false,
+                  "paragraph2": false,
+                  "list": false,
+                  "break": true,
+                  "table": false,
+                  "table_type": null,
+                  "rtl": false,
+                  "items": [
+                    {
+                      "type": "note",
+                      "number": 1,
+                      "value": "<b>9.1 </b>  8:23 in Heb"
+                    },
+                    {
+                      "type": "text",
+                      "value": "If only my head were a spring of water,"
+                    }
+                  ]
+                },
+                {
+                  "code": "JER.9.1",
+                  "number": "1",
+                  "type": "x-no-number",
+                  "paragraph": true,
+                  "paragraph2": false,
+                  "list": false,
+                  "break": false,
+                  "table": false,
+                  "table_type": null,
+                  "rtl": false,
+                  "items": [
+                    {
+                      "type": "text",
+                      "value": "and my eyes a fountain of tears,"
+                    }
+                  ]
+                },
+                {
+                  "code": "JER.9.1",
+                  "number": "1",
+                  "type": "x-no-number",
+                  "paragraph": false,
+                  "paragraph2": false,
+                  "list": false,
+                  "break": true,
+                  "table": false,
+                  "table_type": null,
+                  "rtl": false,
+                  "items": [
+                    {
+                      "type": "text",
+                      "value": "I would weep day and night"
+                    }
+                  ]
+                },
+                {
+                  "code": "JER.9.1",
+                  "number": "1",
+                  "type": "x-no-number",
+                  "paragraph": true,
+                  "paragraph2": false,
+                  "list": false,
+                  "break": false,
+                  "table": false,
+                  "table_type": null,
+                  "rtl": false,
+                  "items": [
+                    {
+                      "type": "text",
+                      "value": "for the wounds of my people."
+                    }
+                  ]
+                },
+                {
+                  "code": "JER.9.2",
+                  "number": "2",
+                  "type": "x-number",
+                  "paragraph": false,
+                  "paragraph2": false,
+                  "list": false,
+                  "break": true,
+                  "table": false,
+                  "table_type": null,
+                  "rtl": false,
+                  "items": [
+                    {
+                      "type": "note",
+                      "number": 1,
+                      "value": "<b>9.2 </b>  9:1 in Heb"
+                    },
+                    {
+                      "type": "text",
+                      "value": "If only I could flee for shelter in the desert,"
+                    }
+                  ]
+                },
+                {
+                  "code": "JER.9.2",
+                  "number": "2",
+                  "type": "x-no-number",
+                  "paragraph": true,
+                  "paragraph2": false,
+                  "list": false,
+                  "break": false,
+                  "table": false,
+                  "table_type": null,
+                  "rtl": false,
+                  "items": [
+                    {
+                      "type": "text",
+                      "value": "to leave my people"
+                    }
+                  ]
+                },
+                {
+                  "code": "JER.9.2",
+                  "number": "2",
+                  "type": "x-no-number",
+                  "paragraph": true,
+                  "paragraph2": false,
+                  "list": false,
+                  "break": false,
+                  "table": false,
+                  "table_type": null,
+                  "rtl": false,
+                  "items": [
+                    {
+                      "type": "text",
+                      "value": "and forget them—"
+                    }
+                  ]
+                },
+                {
+                  "code": "JER.9.2",
+                  "number": "2",
+                  "type": "x-no-number",
+                  "paragraph": true,
+                  "paragraph2": false,
+                  "list": false,
+                  "break": false,
+                  "table": false,
+                  "table_type": null,
+                  "rtl": false,
+                  "items": [
+                    {
+                      "type": "text",
+                      "value": "for they are all adulterers,"
+                    }
+                  ]
+                },
+                {
+                  "code": "JER.9.2",
+                  "number": "2",
+                  "type": "x-no-number",
+                  "paragraph": true,
+                  "paragraph2": false,
+                  "list": false,
+                  "break": false,
+                  "table": false,
+                  "table_type": null,
+                  "rtl": false,
+                  "items": [
+                    {
+                      "type": "text",
+                      "value": "a bunch of crooks."
+                    }
+                  ]
+                },
+                {
+                  "code": "JER.9.3",
+                  "number": "3",
+                  "type": "x-number",
+                  "paragraph": false,
+                  "paragraph2": false,
+                  "list": false,
+                  "break": true,
+                  "table": false,
+                  "table_type": null,
+                  "rtl": false,
+                  "items": [
+                    {
+                      "type": "text",
+                      "value": "They bend their tongues like bows"
+                    }
+                  ]
+                },
+                {
+                  "code": "JER.9.3",
+                  "number": "3",
+                  "type": "x-no-number",
+                  "paragraph": true,
+                  "paragraph2": false,
+                  "list": false,
+                  "break": false,
+                  "table": false,
+                  "table_type": null,
+                  "rtl": false,
+                  "items": [
+                    {
+                      "type": "text",
+                      "value": "to spew out lies;"
+                    }
+                  ]
+                },
+                {
+                  "code": "JER.9.3",
+                  "number": "3",
+                  "type": "x-no-number",
+                  "paragraph": true,
+                  "paragraph2": false,
+                  "list": false,
+                  "break": false,
+                  "table": false,
+                  "table_type": null,
+                  "rtl": false,
+                  "items": [
+                    {
+                      "type": "text",
+                      "value": "they are renowned in the land,"
+                    }
+                  ]
+                },
+                {
+                  "code": "JER.9.3",
+                  "number": "3",
+                  "type": "x-no-number",
+                  "paragraph": true,
+                  "paragraph2": false,
+                  "list": false,
+                  "break": false,
+                  "table": false,
+                  "table_type": null,
+                  "rtl": false,
+                  "items": [
+                    {
+                      "type": "text",
+                      "value": "but not for truth."
+                    }
+                  ]
+                },
+                {
+                  "code": "JER.9.3",
+                  "number": "3",
+                  "type": "x-no-number",
+                  "paragraph": false,
+                  "paragraph2": false,
+                  "list": false,
+                  "break": true,
+                  "table": false,
+                  "table_type": null,
+                  "rtl": false,
+                  "items": [
+                    {
+                      "type": "text",
+                      "value": "They go from bad to worse."
+                    }
+                  ]
+                },
+                {
+                  "code": "JER.9.3",
+                  "number": "3",
+                  "type": "x-no-number",
+                  "paragraph": true,
+                  "paragraph2": false,
+                  "list": false,
+                  "break": false,
+                  "table": false,
+                  "table_type": null,
+                  "rtl": false,
+                  "items": [
+                    {
+                      "type": "text",
+                      "value": "They don’t know me!"
+                    }
+                  ]
+                },
+                {
+                  "code": "JER.9.3",
+                  "number": "3",
+                  "type": "x-no-number",
+                  "paragraph": true,
+                  "paragraph2": false,
+                  "list": false,
+                  "break": false,
+                  "table": false,
+                  "table_type": null,
+                  "rtl": false,
+                  "items": [
+                    {
+                      "type": "text",
+                      "value": "declares the"
+                    },
+                    {
+                      "type": "text",
+                      "value": "LORD"
+                    },
+                    {
+                      "type": "text",
+                      "value": "."
+                    }
+                  ]
+                },
+                {
+                  "code": "JER.9.4",
+                  "number": "4",
+                  "type": "x-number",
+                  "paragraph": false,
+                  "paragraph2": false,
+                  "list": false,
+                  "break": true,
+                  "table": false,
+                  "table_type": null,
+                  "rtl": false,
+                  "items": [
+                    {
+                      "type": "text",
+                      "value": "Be wary of your friends!"
+                    }
+                  ]
+                },
+                {
+                  "code": "JER.9.4",
+                  "number": "4",
+                  "type": "x-no-number",
+                  "paragraph": true,
+                  "paragraph2": false,
+                  "list": false,
+                  "break": false,
+                  "table": false,
+                  "table_type": null,
+                  "rtl": false,
+                  "items": [
+                    {
+                      "type": "text",
+                      "value": "Don’t trust your sibling!"
+                    },
+                    {
+                      "type": "note",
+                      "number": 1,
+                      "value": "<b>9.4 </b>Or <i>brother</i>"
+                    }
+                  ]
+                },
+                {
+                  "code": "JER.9.4",
+                  "number": "4",
+                  "type": "x-no-number",
+                  "paragraph": true,
+                  "paragraph2": false,
+                  "list": false,
+                  "break": false,
+                  "table": false,
+                  "table_type": null,
+                  "rtl": false,
+                  "items": [
+                    {
+                      "type": "text",
+                      "value": "Every sibling is a cheater,"
+                    }
+                  ]
+                },
+                {
+                  "code": "JER.9.4",
+                  "number": "4",
+                  "type": "x-no-number",
+                  "paragraph": true,
+                  "paragraph2": false,
+                  "list": false,
+                  "break": false,
+                  "table": false,
+                  "table_type": null,
+                  "rtl": false,
+                  "items": [
+                    {
+                      "type": "text",
+                      "value": "and every friend traffics in slander."
+                    }
+                  ]
+                },
+                {
+                  "code": "JER.9.5",
+                  "number": "5",
+                  "type": "x-number",
+                  "paragraph": false,
+                  "paragraph2": false,
+                  "list": false,
+                  "break": true,
+                  "table": false,
+                  "table_type": null,
+                  "rtl": false,
+                  "items": [
+                    {
+                      "type": "text",
+                      "value": "One cheats the other;"
+                    }
+                  ]
+                },
+                {
+                  "code": "JER.9.5",
+                  "number": "5",
+                  "type": "x-no-number",
+                  "paragraph": true,
+                  "paragraph2": false,
+                  "list": false,
+                  "break": false,
+                  "table": false,
+                  "table_type": null,
+                  "rtl": false,
+                  "items": [
+                    {
+                      "type": "text",
+                      "value": "no one tells the truth;"
+                    }
+                  ]
+                },
+                {
+                  "code": "JER.9.5",
+                  "number": "5",
+                  "type": "x-no-number",
+                  "paragraph": true,
+                  "paragraph2": false,
+                  "list": false,
+                  "break": false,
+                  "table": false,
+                  "table_type": null,
+                  "rtl": false,
+                  "items": [
+                    {
+                      "type": "text",
+                      "value": "they train themselves to lie;"
+                    }
+                  ]
+                },
+                {
+                  "code": "JER.9.5",
+                  "number": "5",
+                  "type": "x-no-number",
+                  "paragraph": true,
+                  "paragraph2": false,
+                  "list": false,
+                  "break": false,
+                  "table": false,
+                  "table_type": null,
+                  "rtl": false,
+                  "items": [
+                    {
+                      "type": "text",
+                      "value": "they wear themselves out by doing wrong."
+                    }
+                  ]
+                },
+                {
+                  "code": "JER.9.6",
+                  "number": "6",
+                  "type": "x-number",
+                  "paragraph": false,
+                  "paragraph2": false,
+                  "list": false,
+                  "break": true,
+                  "table": false,
+                  "table_type": null,
+                  "rtl": false,
+                  "items": [
+                    {
+                      "type": "text",
+                      "value": "You live in a world of deceit,"
+                    }
+                  ]
+                },
+                {
+                  "code": "JER.9.6",
+                  "number": "6",
+                  "type": "x-no-number",
+                  "paragraph": true,
+                  "paragraph2": false,
+                  "list": false,
+                  "break": false,
+                  "table": false,
+                  "table_type": null,
+                  "rtl": false,
+                  "items": [
+                    {
+                      "type": "text",
+                      "value": "and in their deceit"
+                    }
+                  ]
+                },
+                {
+                  "code": "JER.9.6",
+                  "number": "6",
+                  "type": "x-no-number",
+                  "paragraph": true,
+                  "paragraph2": false,
+                  "list": false,
+                  "break": false,
+                  "table": false,
+                  "table_type": null,
+                  "rtl": false,
+                  "items": [
+                    {
+                      "type": "text",
+                      "value": "they refuse to know me,"
+                    },
+                    {
+                      "type": "note",
+                      "number": 1,
+                      "value": "<b>9.6 </b>Heb uncertain"
+                    }
+                  ]
+                },
+                {
+                  "code": "JER.9.6",
+                  "number": "6",
+                  "type": "x-no-number",
+                  "paragraph": true,
+                  "paragraph2": false,
+                  "list": false,
+                  "break": false,
+                  "table": false,
+                  "table_type": null,
+                  "rtl": false,
+                  "items": [
+                    {
+                      "type": "text",
+                      "value": "declares the"
+                    },
+                    {
+                      "type": "text",
+                      "value": "LORD"
+                    },
+                    {
+                      "type": "text",
+                      "value": "."
+                    }
+                  ]
+                },
+                {
+                  "code": "JER.9.7",
+                  "number": "7",
+                  "type": "x-number",
+                  "paragraph": false,
+                  "paragraph2": false,
+                  "list": false,
+                  "break": true,
+                  "table": false,
+                  "table_type": null,
+                  "rtl": false,
+                  "items": [
+                    {
+                      "type": "text",
+                      "value": "Therefore, the"
+                    },
+                    {
+                      "type": "text",
+                      "value": "LORD"
+                    },
+                    {
+                      "type": "text",
+                      "value": "of heavenly forces proclaims:"
+                    }
+                  ]
+                },
+                {
+                  "code": "JER.9.7",
+                  "number": "7",
+                  "type": "x-no-number",
+                  "paragraph": false,
+                  "paragraph2": false,
+                  "list": false,
+                  "break": true,
+                  "table": false,
+                  "table_type": null,
+                  "rtl": false,
+                  "items": [
+                    {
+                      "type": "text",
+                      "value": "I’m going to refine and test them,"
+                    }
+                  ]
+                },
+                {
+                  "code": "JER.9.7",
+                  "number": "7",
+                  "type": "x-no-number",
+                  "paragraph": true,
+                  "paragraph2": false,
+                  "list": false,
+                  "break": false,
+                  "table": false,
+                  "table_type": null,
+                  "rtl": false,
+                  "items": [
+                    {
+                      "type": "text",
+                      "value": "for what else can I do with my people?"
+                    }
+                  ]
+                },
+                {
+                  "code": "JER.9.8",
+                  "number": "8",
+                  "type": "x-number",
+                  "paragraph": false,
+                  "paragraph2": false,
+                  "list": false,
+                  "break": true,
+                  "table": false,
+                  "table_type": null,
+                  "rtl": false,
+                  "items": [
+                    {
+                      "type": "text",
+                      "value": "Their tongue is a lethal arrow;"
+                    }
+                  ]
+                },
+                {
+                  "code": "JER.9.8",
+                  "number": "8",
+                  "type": "x-no-number",
+                  "paragraph": true,
+                  "paragraph2": false,
+                  "list": false,
+                  "break": false,
+                  "table": false,
+                  "table_type": null,
+                  "rtl": false,
+                  "items": [
+                    {
+                      "type": "text",
+                      "value": "their words are deceitful."
+                    }
+                  ]
+                },
+                {
+                  "code": "JER.9.8",
+                  "number": "8",
+                  "type": "x-no-number",
+                  "paragraph": false,
+                  "paragraph2": false,
+                  "list": false,
+                  "break": true,
+                  "table": false,
+                  "table_type": null,
+                  "rtl": false,
+                  "items": [
+                    {
+                      "type": "text",
+                      "value": "They wish their neighbors well,"
+                    }
+                  ]
+                },
+                {
+                  "code": "JER.9.8",
+                  "number": "8",
+                  "type": "x-no-number",
+                  "paragraph": true,
+                  "paragraph2": false,
+                  "list": false,
+                  "break": false,
+                  "table": false,
+                  "table_type": null,
+                  "rtl": false,
+                  "items": [
+                    {
+                      "type": "text",
+                      "value": "but in their hearts plot their ruin."
+                    }
+                  ]
+                },
+                {
+                  "code": "JER.9.9",
+                  "number": "9",
+                  "type": "x-number",
+                  "paragraph": false,
+                  "paragraph2": false,
+                  "list": false,
+                  "break": true,
+                  "table": false,
+                  "table_type": null,
+                  "rtl": false,
+                  "items": [
+                    {
+                      "type": "text",
+                      "value": "Shouldn’t I punish them for this?"
+                    }
+                  ]
+                },
+                {
+                  "code": "JER.9.9",
+                  "number": "9",
+                  "type": "x-no-number",
+                  "paragraph": true,
+                  "paragraph2": false,
+                  "list": false,
+                  "break": false,
+                  "table": false,
+                  "table_type": null,
+                  "rtl": false,
+                  "items": [
+                    {
+                      "type": "text",
+                      "value": "declares the"
+                    },
+                    {
+                      "type": "text",
+                      "value": "LORD"
+                    },
+                    {
+                      "type": "text",
+                      "value": ";"
+                    }
+                  ]
+                },
+                {
+                  "code": "JER.9.9",
+                  "number": "9",
+                  "type": "x-no-number",
+                  "paragraph": true,
+                  "paragraph2": false,
+                  "list": false,
+                  "break": false,
+                  "table": false,
+                  "table_type": null,
+                  "rtl": false,
+                  "items": [
+                    {
+                      "type": "text",
+                      "value": "shouldn’t I avenge such a nation?"
+                    }
+                  ]
+                },
+                {
+                  "code": "JER.9.10",
+                  "number": "10",
+                  "type": "x-number",
+                  "paragraph": false,
+                  "paragraph2": false,
+                  "list": false,
+                  "break": true,
+                  "table": false,
+                  "table_type": null,
+                  "rtl": false,
+                  "items": [
+                    {
+                      "type": "text",
+                      "value": "I will weep and wail for the mountains,"
+                    }
+                  ]
+                },
+                {
+                  "code": "JER.9.10",
+                  "number": "10",
+                  "type": "x-no-number",
+                  "paragraph": true,
+                  "paragraph2": false,
+                  "list": false,
+                  "break": false,
+                  "table": false,
+                  "table_type": null,
+                  "rtl": false,
+                  "items": [
+                    {
+                      "type": "text",
+                      "value": "and lament for the grazing lands in the wilderness."
+                    }
+                  ]
+                },
+                {
+                  "code": "JER.9.10",
+                  "number": "10",
+                  "type": "x-no-number",
+                  "paragraph": false,
+                  "paragraph2": false,
+                  "list": false,
+                  "break": true,
+                  "table": false,
+                  "table_type": null,
+                  "rtl": false,
+                  "items": [
+                    {
+                      "type": "text",
+                      "value": "They are dried up and deserted;"
+                    }
+                  ]
+                },
+                {
+                  "code": "JER.9.10",
+                  "number": "10",
+                  "type": "x-no-number",
+                  "paragraph": true,
+                  "paragraph2": false,
+                  "list": false,
+                  "break": false,
+                  "table": false,
+                  "table_type": null,
+                  "rtl": false,
+                  "items": [
+                    {
+                      "type": "text",
+                      "value": "no sound of the flocks is heard;"
+                    }
+                  ]
+                },
+                {
+                  "code": "JER.9.10",
+                  "number": "10",
+                  "type": "x-no-number",
+                  "paragraph": true,
+                  "paragraph2": false,
+                  "list": false,
+                  "break": false,
+                  "table": false,
+                  "table_type": null,
+                  "rtl": false,
+                  "items": [
+                    {
+                      "type": "text",
+                      "value": "no sign of birds or animals is seen;"
+                    }
+                  ]
+                },
+                {
+                  "code": "JER.9.10",
+                  "number": "10",
+                  "type": "x-no-number",
+                  "paragraph": true,
+                  "paragraph2": false,
+                  "list": false,
+                  "break": false,
+                  "table": false,
+                  "table_type": null,
+                  "rtl": false,
+                  "items": [
+                    {
+                      "type": "text",
+                      "value": "all have vanished."
+                    }
+                  ]
+                },
+                {
+                  "code": "JER.9.11",
+                  "number": "11",
+                  "type": "x-number",
+                  "paragraph": false,
+                  "paragraph2": false,
+                  "list": false,
+                  "break": true,
+                  "table": false,
+                  "table_type": null,
+                  "rtl": false,
+                  "items": [
+                    {
+                      "type": "text",
+                      "value": "I will reduce Jerusalem to ruins,"
+                    }
+                  ]
+                },
+                {
+                  "code": "JER.9.11",
+                  "number": "11",
+                  "type": "x-no-number",
+                  "paragraph": true,
+                  "paragraph2": false,
+                  "list": false,
+                  "break": false,
+                  "table": false,
+                  "table_type": null,
+                  "rtl": false,
+                  "items": [
+                    {
+                      "type": "text",
+                      "value": "a den for wild dogs."
+                    }
+                  ]
+                },
+                {
+                  "code": "JER.9.11",
+                  "number": "11",
+                  "type": "x-no-number",
+                  "paragraph": false,
+                  "paragraph2": false,
+                  "list": false,
+                  "break": true,
+                  "table": false,
+                  "table_type": null,
+                  "rtl": false,
+                  "items": [
+                    {
+                      "type": "text",
+                      "value": "I will make the towns of Judah a wasteland, without inhabitant."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  }
+]

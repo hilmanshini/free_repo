@@ -1,0 +1,756 @@
+[
+  {
+    "id": 3350,
+    "type": "bible-segment",
+    "title": "",
+    "audio": "https://beadisciple-guest.s3.us-east-1.amazonaws.com/DFT%20I%20Session%202%20Audio/Scripture%20clips/Genesis-04.mp3",
+    "bible_segment": {
+      "code": null,
+      "chapters": [
+        {
+          "title": "Genesis 4",
+          "code": "GEN.4",
+          "audio": "https://beadisciple-dev.s3.amazonaws.com/bible-audio/Genesis/Genesis-04.mp3?AWSAccessKeyId=AKIATTNZPDIH3OJULPFB&Expires=1767609983&Signature=jsfL4w4y1PrSwwlZUoKi7NRQXAw%3D",
+          "number": "4",
+          "verses": [
+            {
+              "scope": {
+                "start": "1",
+                "end": "16"
+              },
+              "title": "Cain and Abel",
+              "title_type": "text",
+              "label": null,
+              "note": null,
+              "paragraph": false,
+              "verses": [
+                {
+                  "code": "GEN.4.1",
+                  "number": "1",
+                  "type": "x-number",
+                  "paragraph": true,
+                  "paragraph2": false,
+                  "list": false,
+                  "break": false,
+                  "table": false,
+                  "table_type": null,
+                  "rtl": false,
+                  "items": [
+                    {
+                      "type": "text",
+                      "value": "The man Adam knew his wife Eve intimately. She became pregnant and gave birth to Cain, and said, “I have given life to"
+                    },
+                    {
+                      "type": "note",
+                      "number": 1,
+                      "value": "<b>4.1 </b>Or <i>created; </i>Heb sounds similar to <i>Cain</i>."
+                    },
+                    {
+                      "type": "text",
+                      "value": "a man with the"
+                    },
+                    {
+                      "type": "text",
+                      "value": "LORD"
+                    },
+                    {
+                      "type": "text",
+                      "value": "’s help.”"
+                    }
+                  ]
+                },
+                {
+                  "code": "GEN.4.2",
+                  "number": "2",
+                  "type": "x-number",
+                  "paragraph": false,
+                  "paragraph2": false,
+                  "list": false,
+                  "break": false,
+                  "table": false,
+                  "table_type": null,
+                  "rtl": false,
+                  "items": [
+                    {
+                      "type": "text",
+                      "value": "She gave birth a second time to Cain’s brother Abel. Abel cared for the flocks, and Cain farmed the fertile land."
+                    }
+                  ]
+                },
+                {
+                  "code": "GEN.4.3",
+                  "number": "3",
+                  "type": "x-number",
+                  "paragraph": true,
+                  "paragraph2": false,
+                  "list": false,
+                  "break": false,
+                  "table": false,
+                  "table_type": null,
+                  "rtl": false,
+                  "items": [
+                    {
+                      "type": "text",
+                      "value": "Some time later, Cain presented an offering to the"
+                    },
+                    {
+                      "type": "text",
+                      "value": "LORD"
+                    },
+                    {
+                      "type": "text",
+                      "value": "from the land’s crops"
+                    }
+                  ]
+                },
+                {
+                  "code": "GEN.4.4",
+                  "number": "4",
+                  "type": "x-number",
+                  "paragraph": false,
+                  "paragraph2": false,
+                  "list": false,
+                  "break": false,
+                  "table": false,
+                  "table_type": null,
+                  "rtl": false,
+                  "items": [
+                    {
+                      "type": "text",
+                      "value": "while Abel presented his flock’s oldest offspring with their fat. The"
+                    },
+                    {
+                      "type": "text",
+                      "value": "LORD"
+                    },
+                    {
+                      "type": "text",
+                      "value": "looked favorably on Abel and his sacrifice"
+                    }
+                  ]
+                },
+                {
+                  "code": "GEN.4.5",
+                  "number": "5",
+                  "type": "x-number",
+                  "paragraph": false,
+                  "paragraph2": false,
+                  "list": false,
+                  "break": false,
+                  "table": false,
+                  "table_type": null,
+                  "rtl": false,
+                  "items": [
+                    {
+                      "type": "text",
+                      "value": "but didn’t look favorably on Cain and his sacrifice. Cain became very angry and looked resentful."
+                    }
+                  ]
+                },
+                {
+                  "code": "GEN.4.6",
+                  "number": "6",
+                  "type": "x-number",
+                  "paragraph": false,
+                  "paragraph2": false,
+                  "list": false,
+                  "break": false,
+                  "table": false,
+                  "table_type": null,
+                  "rtl": false,
+                  "items": [
+                    {
+                      "type": "text",
+                      "value": "The"
+                    },
+                    {
+                      "type": "text",
+                      "value": "LORD"
+                    },
+                    {
+                      "type": "text",
+                      "value": "said to Cain, “Why are you angry, and why do you look so resentful?"
+                    }
+                  ]
+                },
+                {
+                  "code": "GEN.4.7",
+                  "number": "7",
+                  "type": "x-number",
+                  "paragraph": false,
+                  "paragraph2": false,
+                  "list": false,
+                  "break": false,
+                  "table": false,
+                  "table_type": null,
+                  "rtl": false,
+                  "items": [
+                    {
+                      "type": "text",
+                      "value": "If you do the right thing, won’t you be accepted? But if you don’t do the right thing, sin will be waiting at the door ready to strike! It will entice you, but you must rule over it.”"
+                    }
+                  ]
+                },
+                {
+                  "code": "GEN.4.8",
+                  "number": "8",
+                  "type": "x-number",
+                  "paragraph": true,
+                  "paragraph2": false,
+                  "list": false,
+                  "break": false,
+                  "table": false,
+                  "table_type": null,
+                  "rtl": false,
+                  "items": [
+                    {
+                      "type": "text",
+                      "value": "Cain said to his brother Abel, “Let’s go out to the field.”"
+                    },
+                    {
+                      "type": "note",
+                      "number": 1,
+                      "value": "<b>4.8 </b>LXX, Syr, Vulg, Sam; MT lacks <i>Let’s go out to the field.</i>"
+                    },
+                    {
+                      "type": "text",
+                      "value": "When they were in the field, Cain attacked his brother Abel and killed him."
+                    }
+                  ]
+                },
+                {
+                  "code": "GEN.4.9",
+                  "number": "9",
+                  "type": "x-number",
+                  "paragraph": true,
+                  "paragraph2": false,
+                  "list": false,
+                  "break": false,
+                  "table": false,
+                  "table_type": null,
+                  "rtl": false,
+                  "items": [
+                    {
+                      "type": "text",
+                      "value": "The"
+                    },
+                    {
+                      "type": "text",
+                      "value": "LORD"
+                    },
+                    {
+                      "type": "text",
+                      "value": "said to Cain, “Where is your brother Abel?”"
+                    }
+                  ]
+                },
+                {
+                  "code": "GEN.4.9",
+                  "number": "9",
+                  "type": "x-no-number",
+                  "paragraph": true,
+                  "paragraph2": false,
+                  "list": false,
+                  "break": false,
+                  "table": false,
+                  "table_type": null,
+                  "rtl": false,
+                  "items": [
+                    {
+                      "type": "text",
+                      "value": "Cain said, “I don’t know. Am I my brother’s guardian?”"
+                    }
+                  ]
+                },
+                {
+                  "code": "GEN.4.10",
+                  "number": "10",
+                  "type": "x-number",
+                  "paragraph": true,
+                  "paragraph2": false,
+                  "list": false,
+                  "break": false,
+                  "table": false,
+                  "table_type": null,
+                  "rtl": false,
+                  "items": [
+                    {
+                      "type": "text",
+                      "value": "The"
+                    },
+                    {
+                      "type": "text",
+                      "value": "LORD"
+                    },
+                    {
+                      "type": "text",
+                      "value": "said, “What did you do? The voice of your brother’s blood is crying to me from the ground."
+                    }
+                  ]
+                },
+                {
+                  "code": "GEN.4.11",
+                  "number": "11",
+                  "type": "x-number",
+                  "paragraph": false,
+                  "paragraph2": false,
+                  "list": false,
+                  "break": false,
+                  "table": false,
+                  "table_type": null,
+                  "rtl": false,
+                  "items": [
+                    {
+                      "type": "text",
+                      "value": "You are now cursed from the ground that opened its mouth to take your brother’s blood from your hand."
+                    }
+                  ]
+                },
+                {
+                  "code": "GEN.4.12",
+                  "number": "12",
+                  "type": "x-number",
+                  "paragraph": false,
+                  "paragraph2": false,
+                  "list": false,
+                  "break": false,
+                  "table": false,
+                  "table_type": null,
+                  "rtl": false,
+                  "items": [
+                    {
+                      "type": "text",
+                      "value": "When you farm the fertile land, it will no longer grow anything for you, and you will become a roving nomad on the earth.”"
+                    }
+                  ]
+                },
+                {
+                  "code": "GEN.4.13",
+                  "number": "13",
+                  "type": "x-number",
+                  "paragraph": true,
+                  "paragraph2": false,
+                  "list": false,
+                  "break": false,
+                  "table": false,
+                  "table_type": null,
+                  "rtl": false,
+                  "items": [
+                    {
+                      "type": "text",
+                      "value": "Cain said to the"
+                    },
+                    {
+                      "type": "text",
+                      "value": "LORD"
+                    },
+                    {
+                      "type": "text",
+                      "value": ", “My punishment is more than I can bear."
+                    }
+                  ]
+                },
+                {
+                  "code": "GEN.4.14",
+                  "number": "14",
+                  "type": "x-number",
+                  "paragraph": false,
+                  "paragraph2": false,
+                  "list": false,
+                  "break": false,
+                  "table": false,
+                  "table_type": null,
+                  "rtl": false,
+                  "items": [
+                    {
+                      "type": "text",
+                      "value": "Now that you’ve driven me away from the fertile land and I am hidden from your presence, I’m about to become a roving nomad on the earth, and anyone who finds me will kill me.”"
+                    }
+                  ]
+                },
+                {
+                  "code": "GEN.4.15",
+                  "number": "15",
+                  "type": "x-number",
+                  "paragraph": true,
+                  "paragraph2": false,
+                  "list": false,
+                  "break": false,
+                  "table": false,
+                  "table_type": null,
+                  "rtl": false,
+                  "items": [
+                    {
+                      "type": "text",
+                      "value": "The"
+                    },
+                    {
+                      "type": "text",
+                      "value": "LORD"
+                    },
+                    {
+                      "type": "text",
+                      "value": "said to him, “It won’t happen;"
+                    },
+                    {
+                      "type": "note",
+                      "number": 1,
+                      "value": "<b>4.15 </b>LXX, Syr, Vulg; MT <i>therefore</i>"
+                    },
+                    {
+                      "type": "text",
+                      "value": "anyone who kills Cain will be paid back seven times.” The"
+                    },
+                    {
+                      "type": "text",
+                      "value": "LORD"
+                    },
+                    {
+                      "type": "text",
+                      "value": "put a sign on Cain so that no one who found him would assault him."
+                    }
+                  ]
+                },
+                {
+                  "code": "GEN.4.16",
+                  "number": "16",
+                  "type": "x-number",
+                  "paragraph": false,
+                  "paragraph2": false,
+                  "list": false,
+                  "break": false,
+                  "table": false,
+                  "table_type": null,
+                  "rtl": false,
+                  "items": [
+                    {
+                      "type": "text",
+                      "value": "Cain left the"
+                    },
+                    {
+                      "type": "text",
+                      "value": "LORD"
+                    },
+                    {
+                      "type": "text",
+                      "value": "’s presence, and he settled down in the land of Nod, east of Eden."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "scope": {
+                "start": "17",
+                "end": "26"
+              },
+              "title": "Cain’s descendants",
+              "title_type": "text",
+              "label": null,
+              "note": null,
+              "paragraph": false,
+              "verses": [
+                {
+                  "code": "GEN.4.17",
+                  "number": "17",
+                  "type": "x-number",
+                  "paragraph": true,
+                  "paragraph2": false,
+                  "list": false,
+                  "break": false,
+                  "table": false,
+                  "table_type": null,
+                  "rtl": false,
+                  "items": [
+                    {
+                      "type": "text",
+                      "value": "Cain knew his wife intimately. She became pregnant and gave birth to Enoch. Cain built a city and named the city after his son Enoch."
+                    }
+                  ]
+                },
+                {
+                  "code": "GEN.4.18",
+                  "number": "18",
+                  "type": "x-number",
+                  "paragraph": true,
+                  "paragraph2": false,
+                  "list": false,
+                  "break": false,
+                  "table": false,
+                  "table_type": null,
+                  "rtl": false,
+                  "items": [
+                    {
+                      "type": "text",
+                      "value": "Irad was born to Enoch. Irad fathered Mehujael, Mehujael fathered Methushael, and Methushael fathered Lamech."
+                    }
+                  ]
+                },
+                {
+                  "code": "GEN.4.19",
+                  "number": "19",
+                  "type": "x-number",
+                  "paragraph": false,
+                  "paragraph2": false,
+                  "list": false,
+                  "break": false,
+                  "table": false,
+                  "table_type": null,
+                  "rtl": false,
+                  "items": [
+                    {
+                      "type": "text",
+                      "value": "Lamech took two wives, the first named Adah and the second Zillah."
+                    }
+                  ]
+                },
+                {
+                  "code": "GEN.4.20",
+                  "number": "20",
+                  "type": "x-number",
+                  "paragraph": false,
+                  "paragraph2": false,
+                  "list": false,
+                  "break": false,
+                  "table": false,
+                  "table_type": null,
+                  "rtl": false,
+                  "items": [
+                    {
+                      "type": "text",
+                      "value": "Adah gave birth to Jabal; he was the ancestor of those who live in tents and own livestock."
+                    }
+                  ]
+                },
+                {
+                  "code": "GEN.4.21",
+                  "number": "21",
+                  "type": "x-number",
+                  "paragraph": false,
+                  "paragraph2": false,
+                  "list": false,
+                  "break": false,
+                  "table": false,
+                  "table_type": null,
+                  "rtl": false,
+                  "items": [
+                    {
+                      "type": "text",
+                      "value": "His brother’s name was Jubal; he was the ancestor of those who play stringed and wind instruments."
+                    }
+                  ]
+                },
+                {
+                  "code": "GEN.4.22",
+                  "number": "22",
+                  "type": "x-number",
+                  "paragraph": false,
+                  "paragraph2": false,
+                  "list": false,
+                  "break": false,
+                  "table": false,
+                  "table_type": null,
+                  "rtl": false,
+                  "items": [
+                    {
+                      "type": "text",
+                      "value": "Zillah also gave birth to Tubal-cain, the ancestor of"
+                    },
+                    {
+                      "type": "note",
+                      "number": 1,
+                      "value": "<b>4.22 </b>Heb lacks <i>the ancestor of.</i>"
+                    },
+                    {
+                      "type": "text",
+                      "value": "blacksmiths and all artisans of bronze and iron. Tubal-cain’s sister was Naamah."
+                    }
+                  ]
+                },
+                {
+                  "code": "GEN.4.23",
+                  "number": "23",
+                  "type": "x-number",
+                  "paragraph": true,
+                  "paragraph2": false,
+                  "list": false,
+                  "break": false,
+                  "table": false,
+                  "table_type": null,
+                  "rtl": false,
+                  "items": [
+                    {
+                      "type": "text",
+                      "value": "Lamech said to his wives,"
+                    }
+                  ]
+                },
+                {
+                  "code": "GEN.4.23",
+                  "number": "23",
+                  "type": "x-no-number",
+                  "paragraph": false,
+                  "paragraph2": false,
+                  "list": false,
+                  "break": true,
+                  "table": false,
+                  "table_type": null,
+                  "rtl": false,
+                  "items": [
+                    {
+                      "type": "text",
+                      "value": "“Adah and Zillah, listen to my voice;"
+                    }
+                  ]
+                },
+                {
+                  "code": "GEN.4.23",
+                  "number": "23",
+                  "type": "x-no-number",
+                  "paragraph": true,
+                  "paragraph2": false,
+                  "list": false,
+                  "break": false,
+                  "table": false,
+                  "table_type": null,
+                  "rtl": false,
+                  "items": [
+                    {
+                      "type": "text",
+                      "value": "wives of Lamech, pay attention to my words:"
+                    }
+                  ]
+                },
+                {
+                  "code": "GEN.4.23",
+                  "number": "23",
+                  "type": "x-no-number",
+                  "paragraph": false,
+                  "paragraph2": false,
+                  "list": false,
+                  "break": true,
+                  "table": false,
+                  "table_type": null,
+                  "rtl": false,
+                  "items": [
+                    {
+                      "type": "text",
+                      "value": "I killed a man for wounding me,"
+                    }
+                  ]
+                },
+                {
+                  "code": "GEN.4.23",
+                  "number": "23",
+                  "type": "x-no-number",
+                  "paragraph": true,
+                  "paragraph2": false,
+                  "list": false,
+                  "break": false,
+                  "table": false,
+                  "table_type": null,
+                  "rtl": false,
+                  "items": [
+                    {
+                      "type": "text",
+                      "value": "a boy for striking me;"
+                    }
+                  ]
+                },
+                {
+                  "code": "GEN.4.24",
+                  "number": "24",
+                  "type": "x-number",
+                  "paragraph": true,
+                  "paragraph2": false,
+                  "list": false,
+                  "break": false,
+                  "table": false,
+                  "table_type": null,
+                  "rtl": false,
+                  "items": [
+                    {
+                      "type": "text",
+                      "value": "so Cain will be paid back seven times"
+                    }
+                  ]
+                },
+                {
+                  "code": "GEN.4.24",
+                  "number": "24",
+                  "type": "x-no-number",
+                  "paragraph": true,
+                  "paragraph2": false,
+                  "list": false,
+                  "break": false,
+                  "table": false,
+                  "table_type": null,
+                  "rtl": false,
+                  "items": [
+                    {
+                      "type": "text",
+                      "value": "and Lamech seventy-seven times.”"
+                    }
+                  ]
+                },
+                {
+                  "code": "GEN.4.25",
+                  "number": "25",
+                  "type": "x-number",
+                  "paragraph": true,
+                  "paragraph2": false,
+                  "list": false,
+                  "break": false,
+                  "table": false,
+                  "table_type": null,
+                  "rtl": false,
+                  "items": [
+                    {
+                      "type": "text",
+                      "value": "Adam knew his wife intimately again, and she gave birth to a son. She named him Seth"
+                    },
+                    {
+                      "type": "note",
+                      "number": 1,
+                      "value": "<b>4.25 </b>Sounds like the Heb verb <i>gave</i>"
+                    },
+                    {
+                      "type": "text",
+                      "value": "“because God has given me another child in place of Abel, whom Cain killed.”"
+                    }
+                  ]
+                },
+                {
+                  "code": "GEN.4.26",
+                  "number": "26",
+                  "type": "x-number",
+                  "paragraph": false,
+                  "paragraph2": false,
+                  "list": false,
+                  "break": false,
+                  "table": false,
+                  "table_type": null,
+                  "rtl": false,
+                  "items": [
+                    {
+                      "type": "text",
+                      "value": "Seth also fathered a son and named him Enosh. At that time, people began to worship in the"
+                    },
+                    {
+                      "type": "text",
+                      "value": "LORD"
+                    },
+                    {
+                      "type": "text",
+                      "value": "’s name."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  }
+]
